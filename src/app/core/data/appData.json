@@ -1,0 +1,6006 @@
+{"data":[{
+  "No." : 1,
+  "Book Title" : "23 Minutes",
+  "Author" : "VANDE VELDE",
+  "Gene" : "Young Adult"
+},
+{
+  "No." : 2,
+  "Book Title" : "ABOUT DAVID",
+  "Author" : "SHAWN BOLD, PREFERER",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 3,
+  "Book Title" : "A'CLASS APART",
+  "Author" : "SUSAN LEWIS",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 4,
+  "Book Title" : "AMAZING ANIMALS OF THE WORLD: – Olympic Salamander",
+  "Author" : "(Various)",
+  "Gene" : "Reference / Animals"
+},
+{
+  "No." : 5,
+  "Book Title" : "AMAZING ANIMALS OF THE WORLD: – Mozambique Tilapia",
+  "Author" : "(Various)",
+  "Gene" : "Reference / Animals"
+},
+{
+  "No." : 6,
+  "Book Title" : "AMAZING ANIMALS OF THE WORLD: Greater Flamingo – Hooded Seal",
+  "Author" : "(Various)",
+  "Gene" : "Reference / Animals"
+},
+{
+  "No." : 7,
+  "Book Title" : "BABY ANIMALS ON THE FARM",
+  "Author" : "(Author not clear)",
+  "Gene" : "Children's Nonfiction / Animals"
+},
+{
+  "No." : 8,
+  "Book Title" : "Biblical Studies 10",
+  "Author" : "(Various / Textbook)",
+  "Gene" : "Textbook / Religion"
+},
+{
+  "No." : 9,
+  "Book Title" : "BIZARRE",
+  "Author" : "(Author not clear)",
+  "Gene" : "Reference / Trivia"
+},
+{
+  "No." : 10,
+  "Book Title" : "Black and Blue",
+  "Author" : "GENA SHOWALTER",
+  "Gene" : "Paranormal Romance"
+},
+{
+  "No." : 11,
+  "Book Title" : "Blizzard's Wake",
+  "Author" : "MAYLOR",
+  "Gene" : "Young Adult / Fiction"
+},
+{
+  "No." : 12,
+  "Book Title" : "BROKEN WINGS",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 13,
+  "Book Title" : "BURY MY HEART AT WOUNDED KNEE",
+  "Author" : "DEE BROWN",
+  "Gene" : "History / Native American Studies"
+},
+{
+  "No." : 14,
+  "Book Title" : "City of Ashes",
+  "Author" : "CASSANDRA CLARE",
+  "Gene" : "Fantasy / Young Adult"
+},
+{
+  "No." : 15,
+  "Book Title" : "Death of a Salesman",
+  "Author" : "ARTHUR MILLER",
+  "Gene" : "Play / Classic Literature"
+},
+{
+  "No." : 16,
+  "Book Title" : "Death of a Salesman",
+  "Author" : "ARTHUR MILLER",
+  "Gene" : "Friction"
+},
+{
+  "No." : 17,
+  "Book Title" : "DRAGON'S BREATH",
+  "Author" : "(Author not clear)",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 18,
+  "Book Title" : "Family Visit",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 19,
+  "Book Title" : "FLAMES",
+  "Author" : "LOSSWARE",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 20,
+  "Book Title" : "FROST",
+  "Author" : "HOTINDLY",
+  "Gene" : "Poetry / General Fiction"
+},
+{
+  "No." : 21,
+  "Book Title" : "Gates of Paradise",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 22,
+  "Book Title" : "Ghost Towns",
+  "Author" : "(Author not clear)",
+  "Gene" : "History / American West"
+},
+{
+  "No." : 23,
+  "Book Title" : "GIANT OF MESABI",
+  "Author" : "JANET DAILEY",
+  "Gene" : "Romance"
+},
+{
+  "No." : 24,
+  "Book Title" : "GOSSAMER",
+  "Author" : "LOIS LOWRY",
+  "Gene" : "Children's / Fantasy"
+},
+{
+  "No." : 25,
+  "Book Title" : "Harriet Tubman",
+  "Author" : "ANN PETRY",
+  "Gene" : "Biography / History"
+},
+{
+  "No." : 26,
+  "Book Title" : "HOORAY FOR INVENTORS!",
+  "Author" : "MARCIA WILLIAMS",
+  "Gene" : "Children's Nonfiction / Biography"
+},
+{
+  "No." : 27,
+  "Book Title" : "HOORAY FOR INVENTORS!",
+  "Author" : "Marcia Williams",
+  "Gene" : "Children's Literature"
+},
+{
+  "No." : 28,
+  "Book Title" : "INSECT METAMORPHOSIS",
+  "Author" : "RON AND NANCY COOR",
+  "Gene" : "Science / Biology"
+},
+{
+  "No." : 29,
+  "Book Title" : "Into the Woods",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 30,
+  "Book Title" : "Life of Pi",
+  "Author" : "YANN MARTEL",
+  "Gene" : "Literary Fiction / Adventure"
+},
+{
+  "No." : 31,
+  "Book Title" : "Moment of Love",
+  "Author" : "LAURENS RANNEY",
+  "Gene" : "Romance"
+},
+{
+  "No." : 32,
+  "Book Title" : "MOTION the Night",
+  "Author" : "MICHAEL OFNEED",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 33,
+  "Book Title" : "NEVER GIVE IN",
+  "Author" : "DENISE ROBINS",
+  "Gene" : "Romance"
+},
+{
+  "No." : 34,
+  "Book Title" : "Nightfall",
+  "Author" : "NELSON DEMILLE",
+  "Gene" : "Thriller / Adventure"
+},
+{
+  "No." : 35,
+  "Book Title" : "Nightfall",
+  "Author" : "NELSON DEMILLE",
+  "Gene" : "Friction"
+},
+{
+  "No." : 36,
+  "Book Title" : "Rain",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 37,
+  "Book Title" : "Seeds of Yesterday",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 38,
+  "Book Title" : "Serpent's Tooth",
+  "Author" : "FAYE KELLERMAN",
+  "Gene" : "Mystery / Thriller"
+},
+{
+  "No." : 39,
+  "Book Title" : "SOLDIER'S HEART",
+  "Author" : "GARY PAULSEN",
+  "Gene" : "Young Adult / Historical Fiction"
+},
+{
+  "No." : 40,
+  "Book Title" : "SOUTH AFRICAN PUBLIC RELATIONS",
+  "Author" : "(Author not clear)",
+  "Gene" : "History / Publishing"
+},
+{
+  "No." : 41,
+  "Book Title" : "SOUTH AFRICAN PUBLIC RELATIONS",
+  "Author" : "JC Skinner; LM Von Essen",
+  "Gene" : "Public Relations"
+},
+{
+  "No." : 42,
+  "Book Title" : "STAR WARS THE LAST OF THE JEDI 10TH",
+  "Author" : null,
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 43,
+  "Book Title" : "STAR WARS THE LAST OF THE JEDI 7TH",
+  "Author" : null,
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 44,
+  "Book Title" : "STAR WARS THE LAST OF THE JEDI 9TH",
+  "Author" : null,
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 45,
+  "Book Title" : "THE COLOR PURPLE",
+  "Author" : "ALICE WALKER",
+  "Gene" : "Literary Fiction"
+},
+{
+  "No." : 46,
+  "Book Title" : "THE CONFESSIONS",
+  "Author" : "Julie Kenner",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 47,
+  "Book Title" : "The Drive World",
+  "Author" : "(Author not clear - possibly \"ALEXE\")",
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 48,
+  "Book Title" : "The Fall of Troy",
+  "Author" : "PETER ACKROYD",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 49,
+  "Book Title" : "The Fall of Troy",
+  "Author" : "Peter Ackroyd",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 50,
+  "Book Title" : "The Fall of Troy",
+  "Author" : "PETER ACKROYD",
+  "Gene" : "Friction"
+},
+{
+  "No." : 51,
+  "Book Title" : "THE HARDY BOYS (Title unclear - \"CHOKE BODIES\")",
+  "Author" : "FRANKLIN W. DIXON",
+  "Gene" : "Children's / Mystery"
+},
+{
+  "No." : 52,
+  "Book Title" : "The Host",
+  "Author" : "STEPHENIE MEYER",
+  "Gene" : "Science Fiction / Romance"
+},
+{
+  "No." : 53,
+  "Book Title" : "The Host",
+  "Author" : "Stephen Meyer",
+  "Gene" : "Friction"
+},
+{
+  "No." : 54,
+  "Book Title" : "THE HOW TO MANAGE HANDBOOK",
+  "Author" : "(Author not clear)",
+  "Gene" : "Business / Management"
+},
+{
+  "No." : 55,
+  "Book Title" : "THE HOW TO MANAGE HANDBOOK",
+  "Author" : null,
+  "Gene" : "Management"
+},
+{
+  "No." : 56,
+  "Book Title" : "THE LOST HERO",
+  "Author" : "Rick Riordan",
+  "Gene" : "Fantasy / Young Adult"
+},
+{
+  "No." : 57,
+  "Book Title" : "THE LOST HERO",
+  "Author" : "Riordan",
+  "Gene" : "Friction"
+},
+{
+  "No." : 58,
+  "Book Title" : "The Magic Mint",
+  "Author" : "SUSAN HILL LONG",
+  "Gene" : "Children's / Fantasy"
+},
+{
+  "No." : 59,
+  "Book Title" : "THE MOON IS DOWN",
+  "Author" : "JOHN STEINBECK",
+  "Gene" : "Classic Literature / War Fiction"
+},
+{
+  "No." : 60,
+  "Book Title" : "The Odd Squad",
+  "Author" : "BULLY BAIT",
+  "Gene" : "Children's / Middle Grade Fiction"
+},
+{
+  "No." : 61,
+  "Book Title" : "THE SIGN OF THE SEAHORSE",
+  "Author" : "GRAEME BASE",
+  "Gene" : "Children's / Picture Book"
+},
+{
+  "No." : 62,
+  "Book Title" : "THE SIGN OF THE SEAHORSE",
+  "Author" : "Graeme Base",
+  "Gene" : "Children's Literature"
+},
+{
+  "No." : 63,
+  "Book Title" : "THE SNAKE BOOK",
+  "Author" : "(Author not clear)",
+  "Gene" : "Nonfiction / Animals"
+},
+{
+  "No." : 64,
+  "Book Title" : "THE SNAKE BOOK",
+  "Author" : "Charles Potter",
+  "Gene" : "Animals"
+},
+{
+  "No." : 65,
+  "Book Title" : "The Struggle to Be Strong",
+  "Author" : "(Editor/Author not fully clear)",
+  "Gene" : "Self-Help / Nonfiction"
+},
+{
+  "No." : 66,
+  "Book Title" : "The Struggle to Be Strong",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 67,
+  "Book Title" : "THE THEORY OF FLIGHT",
+  "Author" : "SIPO SEPAMLA",
+  "Gene" : "Literary Fiction"
+},
+{
+  "No." : 68,
+  "Book Title" : "THE WHITE FOX CHRONICLES",
+  "Author" : "GARY PAULSEN",
+  "Gene" : "Young Adult / Science Fiction"
+},
+{
+  "No." : 69,
+  "Book Title" : "THE WIFE HE CHOOSE",
+  "Author" : "SIMON FOX",
+  "Gene" : "Romance"
+},
+{
+  "No." : 70,
+  "Book Title" : "The Wildflowers INTO THE GARDEN",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 71,
+  "Book Title" : "THOUGHTS TO SHARE WITH A WONDERFUL TEENAGER",
+  "Author" : "MORRIS",
+  "Gene" : "Inspirational / Gift Book"
+},
+{
+  "No." : 72,
+  "Book Title" : "THOUGHTS TO SHARE WITH A WONDERFUL TEENAGER",
+  "Author" : "Morris",
+  "Gene" : "Friction"
+},
+{
+  "No." : 73,
+  "Book Title" : "TREASURE ISLAND",
+  "Author" : "ROBERT LOUIS STEVENSON",
+  "Gene" : "Classic Adventure"
+},
+{
+  "No." : 74,
+  "Book Title" : "UNORIGINAL SINNER & THE ICE CREAM GOD",
+  "Author" : "JOHN POWERS",
+  "Gene" : "Fiction / Humor"
+},
+{
+  "No." : 75,
+  "Book Title" : "WALKING WITH DINOSAURS",
+  "Author" : "(Author not clear)",
+  "Gene" : "Science / Paleontology"
+},
+{
+  "No." : 76,
+  "Book Title" : "WONDERS OF THE NATURAL WORLD",
+  "Author" : "(Author not clear)",
+  "Gene" : "Nonfiction / Nature"
+},
+{
+  "No." : 77,
+  "Book Title" : "WONDERS OF THE NATURAL WORLD",
+  "Author" : null,
+  "Gene" : "Nature"
+},
+{
+  "No." : 78,
+  "Book Title" : "1000 More Jokes for Kids",
+  "Author" : "Michael Kilgarriff",
+  "Gene" : "Kids"
+},
+{
+  "No." : 79,
+  "Book Title" : "101 DALMATIANS",
+  "Author" : "DODIE SMITH",
+  "Gene" : "Friction"
+},
+{
+  "No." : 80,
+  "Book Title" : "101 Ways to Bug your Parents",
+  "Author" : "Lee Wardlaw",
+  "Gene" : "Teens"
+},
+{
+  "No." : 81,
+  "Book Title" : "101 ways to bug your teachers",
+  "Author" : "Wardlaw",
+  "Gene" : "non friction"
+},
+{
+  "No." : 82,
+  "Book Title" : "145th Street Short Stories",
+  "Author" : "Walter Dean Myers",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 83,
+  "Book Title" : "19 Treasures of Walking with God",
+  "Author" : "Andrew Murray",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 84,
+  "Book Title" : "23 MINUTES",
+  "Author" : "VANDEVELDE",
+  "Gene" : "Friction"
+},
+{
+  "No." : 85,
+  "Book Title" : "50 SIMPLE THINGS KIDS CAN DO TO SAVE THE EARTH",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 86,
+  "Book Title" : "A Bride for the Italian Boss",
+  "Author" : "Susan Meier",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 87,
+  "Book Title" : "A case of need",
+  "Author" : "Micheal Crichton",
+  "Gene" : "Romance"
+},
+{
+  "No." : 88,
+  "Book Title" : "A cat called Tim 1",
+  "Author" : "Anne Oates",
+  "Gene" : "kids"
+},
+{
+  "No." : 89,
+  "Book Title" : "A cat called Tim 2",
+  "Author" : "Anne Oates",
+  "Gene" : "kids"
+},
+{
+  "No." : 90,
+  "Book Title" : "A CHILDS GARDEN OF VERSES",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 91,
+  "Book Title" : "A CLASS APART",
+  "Author" : "SUSAN Lweis",
+  "Gene" : "Romance"
+},
+{
+  "No." : 92,
+  "Book Title" : "A Crowded Marriage",
+  "Author" : "CATHERINE ALLIOTT",
+  "Gene" : "Romance / Contemporary Fiction"
+},
+{
+  "No." : 93,
+  "Book Title" : "A DALLIANCE WITH DESTINY",
+  "Author" : "Aman Singh",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 94,
+  "Book Title" : "A DALLIANCE WITH DESTINY",
+  "Author" : "AMAN SINGH MAHARAJ",
+  "Gene" : "Romance / Historical Romance"
+},
+{
+  "No." : 95,
+  "Book Title" : "A Dance with Danger",
+  "Author" : "Jeannie Lin",
+  "Gene" : "History"
+},
+{
+  "No." : 96,
+  "Book Title" : "A Dance with Danger",
+  "Author" : "Dorothy Clark",
+  "Gene" : "Romance"
+},
+{
+  "No." : 97,
+  "Book Title" : "A DANCE WITH DANGER",
+  "Author" : "FANNTELIN",
+  "Gene" : null
+},
+{
+  "No." : 98,
+  "Book Title" : "A Dance with Danger",
+  "Author" : "Jeanne St. James",
+  "Gene" : "Romantic Suspense"
+},
+{
+  "No." : 99,
+  "Book Title" : "A Mystery of Strange Bundle",
+  "Author" : "Guid Blyton",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 100,
+  "Book Title" : "A newberry Halloween",
+  "Author" : "BERNHARD",
+  "Gene" : "Friction"
+},
+{
+  "No." : 101,
+  "Book Title" : "A newberry Halloween",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 102,
+  "Book Title" : "A regency Summer",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 103,
+  "Book Title" : "A rumour of Dragons",
+  "Author" : "Margaret Wels & Tracy Hickman",
+  "Gene" : "Teens"
+},
+{
+  "No." : 104,
+  "Book Title" : "A Sailor Returns",
+  "Author" : "Theodore Taylor",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 105,
+  "Book Title" : "a small free kiss in the dark",
+  "Author" : "millaed",
+  "Gene" : "non friction"
+},
+{
+  "No." : 106,
+  "Book Title" : "A surprise Pet",
+  "Author" : "Rob Arego",
+  "Gene" : "kids"
+},
+{
+  "No." : 107,
+  "Book Title" : "A to Z Mysteries Detectice Camp",
+  "Author" : "Ron Roy",
+  "Gene" : "Kids"
+},
+{
+  "No." : 108,
+  "Book Title" : "A to Z Mysteries Super Edition",
+  "Author" : null,
+  "Gene" : "Children"
+},
+{
+  "No." : 109,
+  "Book Title" : "A Tree Grows in Brooklyn",
+  "Author" : "Betty Smith",
+  "Gene" : "Classic Fiction"
+},
+{
+  "No." : 110,
+  "Book Title" : "A Tree Grows in Brooklyn",
+  "Author" : "Betty Smith",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 111,
+  "Book Title" : "Abandon the night",
+  "Author" : "Jose Ware",
+  "Gene" : "Romance"
+},
+{
+  "No." : 112,
+  "Book Title" : "About David",
+  "Author" : "Susan Beth Pfeffer",
+  "Gene" : "non friction"
+},
+{
+  "No." : 113,
+  "Book Title" : "Abraham Lincoln",
+  "Author" : "Lola M Schaefer",
+  "Gene" : "History"
+},
+{
+  "No." : 114,
+  "Book Title" : "Absolutley True Diary of a part-time Indian",
+  "Author" : "Sherman Alexie",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 115,
+  "Book Title" : "Accounting Cash and Credit Transactions",
+  "Author" : "Unknown",
+  "Gene" : "Accounting"
+},
+{
+  "No." : 116,
+  "Book Title" : "Accounting Disclosure",
+  "Author" : "Coetzee; Dempsey; Opperman",
+  "Gene" : "Accounting"
+},
+{
+  "No." : 117,
+  "Book Title" : "Accounting Disclosure",
+  "Author" : "Conrad Fourie & Dirk Opperman",
+  "Gene" : "Accounting"
+},
+{
+  "No." : 118,
+  "Book Title" : "Accounting: Cash and Credit Transactions Grade 9",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 119,
+  "Book Title" : "Affirmations",
+  "Author" : "Stuart Wilde",
+  "Gene" : "Personal Development"
+},
+{
+  "No." : 120,
+  "Book Title" : "African Philosophy Through Ubuntu",
+  "Author" : "Mogobe B. Ramose",
+  "Gene" : "Philosophy"
+},
+{
+  "No." : 121,
+  "Book Title" : "Afrikaans Handbook & Study Guide",
+  "Author" : "Beryl Lutrin",
+  "Gene" : "Language / Afrikaans"
+},
+{
+  "No." : 122,
+  "Book Title" : "Afrikaans-English School Dictionary",
+  "Author" : "Oxford",
+  "Gene" : "Dictionary"
+},
+{
+  "No." : 123,
+  "Book Title" : "AIDS and Ethics",
+  "Author" : "Frederic G. Reamer (Ed.)",
+  "Gene" : "Academic / Ethics"
+},
+{
+  "No." : 124,
+  "Book Title" : "Alien Contact",
+  "Author" : "Pamela F Service",
+  "Gene" : "Kids"
+},
+{
+  "No." : 125,
+  "Book Title" : "Alien Expedtion",
+  "Author" : "Pamela F Service",
+  "Gene" : "Kids"
+},
+{
+  "No." : 126,
+  "Book Title" : "All about Koalas",
+  "Author" : "Jeri Cipriano",
+  "Gene" : "Animals"
+},
+{
+  "No." : 127,
+  "Book Title" : "Almost Like Being in Love",
+  "Author" : "Christina Dodd",
+  "Gene" : "Romance"
+},
+{
+  "No." : 128,
+  "Book Title" : "Almost Like Being in Love",
+  "Author" : "Christina Dodd",
+  "Gene" : "Romance"
+},
+{
+  "No." : 129,
+  "Book Title" : "Amazing Animals of the World – Greater Flamingo / Hooded Seal",
+  "Author" : "Various",
+  "Gene" : "Children / Nature"
+},
+{
+  "No." : 130,
+  "Book Title" : "Amazing Animals of the World – Mako Shark / Mozambique Tilapia",
+  "Author" : "Various",
+  "Gene" : "Children / Nature"
+},
+{
+  "No." : 131,
+  "Book Title" : "Amazing Animals of the World – Mud Fiddler Crab / Olympic Salamander",
+  "Author" : "Various",
+  "Gene" : "Children / Nature"
+},
+{
+  "No." : 132,
+  "Book Title" : "Amazing Animals of the World – Set A",
+  "Author" : null,
+  "Gene" : "Animals"
+},
+{
+  "No." : 133,
+  "Book Title" : "Amazing Animals of the World – Set B",
+  "Author" : null,
+  "Gene" : "Animals"
+},
+{
+  "No." : 134,
+  "Book Title" : "Amazing Animals of the World – Set C",
+  "Author" : null,
+  "Gene" : "Animals"
+},
+{
+  "No." : 135,
+  "Book Title" : "Amazing Animals of the world Volume 12",
+  "Author" : "Young ELEM",
+  "Gene" : "Animals"
+},
+{
+  "No." : 136,
+  "Book Title" : "Amazing Animals of the world Volume 15",
+  "Author" : "Young ELEM",
+  "Gene" : "Animals"
+},
+{
+  "No." : 137,
+  "Book Title" : "Amazing Animals of the world Volume 16",
+  "Author" : "Young ELEM",
+  "Gene" : "Animals"
+},
+{
+  "No." : 138,
+  "Book Title" : "American beauty",
+  "Author" : "Mary Ellin Barret",
+  "Gene" : "Paranormal Romance"
+},
+{
+  "No." : 139,
+  "Book Title" : "American Girl 1914",
+  "Author" : "Jacquilen Dembar Greene",
+  "Gene" : "Teens"
+},
+{
+  "No." : 140,
+  "Book Title" : "Amos Fortune Free Man",
+  "Author" : null,
+  "Gene" : "Biography"
+},
+{
+  "No." : 141,
+  "Book Title" : "An Introduction to Political Science for African Students",
+  "Author" : null,
+  "Gene" : "Political Science"
+},
+{
+  "No." : 142,
+  "Book Title" : "An Introduction to Political Science for African Students",
+  "Author" : "E. Nnoli & J. Muller",
+  "Gene" : "Political Science"
+},
+{
+  "No." : 143,
+  "Book Title" : "Andelecon Thirsty",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 144,
+  "Book Title" : "Animal families",
+  "Author" : "Jane Keys",
+  "Gene" : "animals"
+},
+{
+  "No." : 145,
+  "Book Title" : "Aubert invests the",
+  "Author" : "Shelly",
+  "Gene" : "non friction"
+},
+{
+  "No." : 146,
+  "Book Title" : "Avatar The Last Airbender",
+  "Author" : "Cine Manga",
+  "Gene" : "Teens"
+},
+{
+  "No." : 147,
+  "Book Title" : "Baby Animals on the farm",
+  "Author" : "Hans-Heinrich Isenbart",
+  "Gene" : "Animals"
+},
+{
+  "No." : 148,
+  "Book Title" : "Baby Animals on the Farm",
+  "Author" : "Isobel Finn",
+  "Gene" : "Children / Nature"
+},
+{
+  "No." : 149,
+  "Book Title" : "Baby Love",
+  "Author" : "Robin Barker",
+  "Gene" : "Parenting"
+},
+{
+  "No." : 150,
+  "Book Title" : "baby's bedclothes",
+  "Author" : "adele geras",
+  "Gene" : "kids"
+},
+{
+  "No." : 151,
+  "Book Title" : "Backyard Camp Out",
+  "Author" : "Carlynn Trout",
+  "Gene" : "kids"
+},
+{
+  "No." : 152,
+  "Book Title" : "Bad Girls",
+  "Author" : "Jacquilne Wilson",
+  "Gene" : "Teens"
+},
+{
+  "No." : 153,
+  "Book Title" : "BASEBALL'S BEST 1994",
+  "Author" : "Italia",
+  "Gene" : "sport"
+},
+{
+  "No." : 154,
+  "Book Title" : "Beastly Boys of Olympus",
+  "Author" : null,
+  "Gene" : "Children"
+},
+{
+  "No." : 155,
+  "Book Title" : "Beasts of Olymus",
+  "Author" : "Mucy Coats",
+  "Gene" : "Kids"
+},
+{
+  "No." : 156,
+  "Book Title" : "Beauty for Ashes",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Healing / Devotional"
+},
+{
+  "No." : 157,
+  "Book Title" : "Bedtime Lullaby",
+  "Author" : "Various Authors",
+  "Gene" : "Children's Book"
+},
+{
+  "No." : 158,
+  "Book Title" : "Believe & Receive",
+  "Author" : "Glennies Roets & Gertie Quinsey",
+  "Gene" : "Christian Faith"
+},
+{
+  "No." : 159,
+  "Book Title" : "Betsy Ross Patriot of Philadelphia",
+  "Author" : "Judith St George",
+  "Gene" : "History"
+},
+{
+  "No." : 160,
+  "Book Title" : "BIBLICAL STUDIES 10",
+  "Author" : "RAPHS BUDGY",
+  "Gene" : "Friction"
+},
+{
+  "No." : 161,
+  "Book Title" : "Big bad wolve ready to wed",
+  "Author" : "Joan Hohl",
+  "Gene" : "Friction"
+},
+{
+  "No." : 162,
+  "Book Title" : "Big Barry Baker's parcel",
+  "Author" : "Gill and Hamlyn",
+  "Gene" : "kids"
+},
+{
+  "No." : 163,
+  "Book Title" : "Bizarre Bugs",
+  "Author" : "Doug wechsler",
+  "Gene" : "Animals"
+},
+{
+  "No." : 164,
+  "Book Title" : "Bizarre Bugs",
+  "Author" : "Heather He",
+  "Gene" : "Children / Science"
+},
+{
+  "No." : 165,
+  "Book Title" : "Black elephant with brown ears",
+  "Author" : "Taylor/Porte",
+  "Gene" : "animals"
+},
+{
+  "No." : 166,
+  "Book Title" : "BLACK NOTICE",
+  "Author" : "PATRICIA CORNWELL",
+  "Gene" : "Science Fiction / Fantasy"
+},
+{
+  "No." : 167,
+  "Book Title" : "Black River",
+  "Author" : "G.M. Ford",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 168,
+  "Book Title" : "Black River",
+  "Author" : "G. M. Ford",
+  "Gene" : "Fiction / Crime"
+},
+{
+  "No." : 169,
+  "Book Title" : "BLIZZARD'S MEW",
+  "Author" : "Maylor",
+  "Gene" : "Friction"
+},
+{
+  "No." : 170,
+  "Book Title" : "Book of shonge but the crimes",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 171,
+  "Book Title" : "Book of Strange But True Crimes",
+  "Author" : "Donald J Sobol & Rose Sobol",
+  "Gene" : "Kids"
+},
+{
+  "No." : 172,
+  "Book Title" : "BOOK OF THE STRANGE BUT THE",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 173,
+  "Book Title" : "Bound by Flames",
+  "Author" : "Jeniene Frost",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 174,
+  "Book Title" : "Breakfast for Bear",
+  "Author" : "Ed Jolie",
+  "Gene" : "kids"
+},
+{
+  "No." : 175,
+  "Book Title" : "Brocaded Hope",
+  "Author" : "Lanashane Robert",
+  "Gene" : "Motivational"
+},
+{
+  "No." : 176,
+  "Book Title" : "Brown and the case of the secret pitch",
+  "Author" : "Donald J Sobol",
+  "Gene" : "non friction"
+},
+{
+  "No." : 177,
+  "Book Title" : "Brown Cracks the case",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 178,
+  "Book Title" : "Bug Muldoon",
+  "Author" : "Shpton Smith",
+  "Gene" : "non friction"
+},
+{
+  "No." : 179,
+  "Book Title" : "BURY MY HEART AT WOUNDED KNEE",
+  "Author" : "DEE BROWN",
+  "Gene" : "Friction"
+},
+{
+  "No." : 180,
+  "Book Title" : "Business Economics",
+  "Author" : null,
+  "Gene" : "Economics"
+},
+{
+  "No." : 181,
+  "Book Title" : "Business Entities (Third Edition)",
+  "Author" : "Pretorius, Delport, Havenga & Vermaas",
+  "Gene" : "Law"
+},
+{
+  "No." : 182,
+  "Book Title" : "Business Management",
+  "Author" : "E. L. de Klerk et al.",
+  "Gene" : "Business"
+},
+{
+  "No." : 183,
+  "Book Title" : "Business Management",
+  "Author" : "E. L. Roux et al.",
+  "Gene" : "Business"
+},
+{
+  "No." : 184,
+  "Book Title" : "Business Management (another edition visible)",
+  "Author" : null,
+  "Gene" : "Business"
+},
+{
+  "No." : 185,
+  "Book Title" : "Business Studies Grade 10 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Business"
+},
+{
+  "No." : 186,
+  "Book Title" : "Business Studies Grade 10 Learner’s Book",
+  "Author" : "Various",
+  "Gene" : "Education / Business"
+},
+{
+  "No." : 187,
+  "Book Title" : "Business Studies Grade 11 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Business"
+},
+{
+  "No." : 188,
+  "Book Title" : "Business Studies Grade 11 Learner’s Book",
+  "Author" : "Various",
+  "Gene" : "Education / Business"
+},
+{
+  "No." : 189,
+  "Book Title" : "Business Studies Grade 12 Learner’s Book",
+  "Author" : "Various",
+  "Gene" : "Education / Business"
+},
+{
+  "No." : 190,
+  "Book Title" : "By the Shore of Silver Lake",
+  "Author" : "Laura Ingalls Wilder",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 191,
+  "Book Title" : "Camp Alien",
+  "Author" : "Pamela F Service",
+  "Gene" : "Kids"
+},
+{
+  "No." : 192,
+  "Book Title" : "Camp Confidential",
+  "Author" : "Jenna's Dilemma",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 193,
+  "Book Title" : "CANOEING IS FOR ME",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 194,
+  "Book Title" : "Captain underpants and the big,bad,battle of the bionic booger part 1",
+  "Author" : "Pilkey",
+  "Gene" : "friction"
+},
+{
+  "No." : 195,
+  "Book Title" : "CAPTAIN UNDERPANTS AND THE BIGBATTLE",
+  "Author" : "PILKEY",
+  "Gene" : null
+},
+{
+  "No." : 196,
+  "Book Title" : "CARDEN CLUB",
+  "Author" : "LORI WILDE",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 197,
+  "Book Title" : "Cashelmara",
+  "Author" : "Susan Howatch",
+  "Gene" : "Family Saga / Historical Fiction"
+},
+{
+  "No." : 198,
+  "Book Title" : "Cat's surprise party 1",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 199,
+  "Book Title" : "Cat's surprise party 10",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 200,
+  "Book Title" : "Cat's surprise party 11",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 201,
+  "Book Title" : "Cat's surprise party 2",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 202,
+  "Book Title" : "Cat's surprise party 3",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 203,
+  "Book Title" : "Cat's surprise party 4",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 204,
+  "Book Title" : "Cat's surprise party 5",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 205,
+  "Book Title" : "Cat's surprise party 6",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 206,
+  "Book Title" : "Cat's surprise party 7",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 207,
+  "Book Title" : "Cat's surprise party 8",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 208,
+  "Book Title" : "Cat's surprise party 9",
+  "Author" : "Rob Aego",
+  "Gene" : "kids"
+},
+{
+  "No." : 209,
+  "Book Title" : "CAUSING HAVOC",
+  "Author" : "LORI FOSTER",
+  "Gene" : "Contemporary Romance"
+},
+{
+  "No." : 210,
+  "Book Title" : "CAVE OF THE DARK WIND",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 211,
+  "Book Title" : "CAVE OF THE DARK WIND",
+  "Author" : "Berry/Pearson",
+  "Gene" : "Friction"
+},
+{
+  "No." : 212,
+  "Book Title" : "CAVE OF THE DARK WIND",
+  "Author" : "Dave Barry and Ridley Pearson",
+  "Gene" : "Kids"
+},
+{
+  "No." : 213,
+  "Book Title" : "Change & Loss",
+  "Author" : "Ruth McAllen",
+  "Gene" : "Pastoral Care / Grief"
+},
+{
+  "No." : 214,
+  "Book Title" : "Changes for Rebecca",
+  "Author" : "(American Girl series)",
+  "Gene" : "Children's / Historical Fiction"
+},
+{
+  "No." : 215,
+  "Book Title" : "Changes,changes Everywhere",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "Animals"
+},
+{
+  "No." : 216,
+  "Book Title" : "Charlotte Gray",
+  "Author" : "Sebastian Faulks",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 217,
+  "Book Title" : "CHASING VERMEER",
+  "Author" : "BALLETT HELQUIST",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 218,
+  "Book Title" : "CHASING VERMEER",
+  "Author" : "Ballett",
+  "Gene" : "Friction"
+},
+{
+  "No." : 219,
+  "Book Title" : "Chicken Soup for the Dog Lovers Soul",
+  "Author" : "Jack Canfield, Mark Victor Hansen",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 220,
+  "Book Title" : "CHICKEN SOUP FOR THE DRAGON'S SOUL",
+  "Author" : "Jack Canfield, Mark Victor, Marty Becker, Carol Kline and Amy D. S.",
+  "Gene" : "kids"
+},
+{
+  "No." : 221,
+  "Book Title" : "Chicken Soup for the Soul: The Blessing",
+  "Author" : "JACK CANFIELD, et al.",
+  "Gene" : "Inspirational / Nonfiction"
+},
+{
+  "No." : 222,
+  "Book Title" : "Chicken Soup for the Teenage Soul I",
+  "Author" : "JACK CANFIELD, et al.",
+  "Gene" : "Inspirational / Young Adult Nonfiction"
+},
+{
+  "No." : 223,
+  "Book Title" : "Chicken Soup for the Teenage Soul II",
+  "Author" : "JACK CANFIELD, et al.",
+  "Gene" : "Inspirational / Young Adult Nonfiction"
+},
+{
+  "No." : 224,
+  "Book Title" : "Chicken Soup for the Teenage Soul III",
+  "Author" : "JACK CANFIELD, et al.",
+  "Gene" : "Inspirational / Young Adult Nonfiction"
+},
+{
+  "No." : 225,
+  "Book Title" : "Chikara_Epic Saga of East West",
+  "Author" : "Robert Skimin",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 226,
+  "Book Title" : "Children of Dune",
+  "Author" : "Frank Herbert",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 227,
+  "Book Title" : "Children of Vampire",
+  "Author" : "Jeanne Kalogridis",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 228,
+  "Book Title" : "Christmas at Candlebush Farm",
+  "Author" : "MICHELLE DOUGLAS",
+  "Gene" : "Romance / Holiday Fiction"
+},
+{
+  "No." : 229,
+  "Book Title" : "Christmastime Courtship",
+  "Author" : "Marie Ferrarella",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 230,
+  "Book Title" : "Chrtmas at Candlebark Farm",
+  "Author" : "Michelle Douglas",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 231,
+  "Book Title" : "City Animals",
+  "Author" : "Malcom Higgins",
+  "Gene" : "Animals"
+},
+{
+  "No." : 232,
+  "Book Title" : "City of Angels",
+  "Author" : "Pocket Pulse",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 233,
+  "Book Title" : "CITY OF ASHES",
+  "Author" : "CASSANDRA CLARE",
+  "Gene" : "Friction"
+},
+{
+  "No." : 234,
+  "Book Title" : "CITY OF GIRLS",
+  "Author" : "ELIZABETH GILBERT",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 235,
+  "Book Title" : "City of the light",
+  "Author" : "Floca",
+  "Gene" : "Friction"
+},
+{
+  "No." : 236,
+  "Book Title" : "Civil War Ghosts",
+  "Author" : "Daniel Cohen",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 237,
+  "Book Title" : "Civilization and Transcendence",
+  "Author" : "A. C. Bhaktivedanta Swami Prabhupada",
+  "Gene" : "Philosophy / Spirituality"
+},
+{
+  "No." : 238,
+  "Book Title" : "Clever Keeping Maths Simple – Grade 9 Learner’s Book",
+  "Author" : "H. Botha, E. du Plessis, I. Nel, G. Sookraj",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 239,
+  "Book Title" : "Clinical Periodontology",
+  "Author" : "Newman, Takei, Carranza",
+  "Gene" : "Medical"
+},
+{
+  "No." : 240,
+  "Book Title" : "Comfort from the Word",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 241,
+  "Book Title" : "Coming Back: The Science of Reincarnation",
+  "Author" : "A. C. Bhaktivedanta Swami Prabhupada",
+  "Gene" : "Spirituality / Philosophy"
+},
+{
+  "No." : 242,
+  "Book Title" : "Complete Baby and Childcare",
+  "Author" : "Dr. Miriam Stoppard",
+  "Gene" : "Parenting"
+},
+{
+  "No." : 243,
+  "Book Title" : "Contemporary Issues in South African Marketing",
+  "Author" : "Russell Abratt",
+  "Gene" : "Marketing"
+},
+{
+  "No." : 244,
+  "Book Title" : "Cornelia Somerset Sisters",
+  "Author" : "Lesey M M Blume",
+  "Gene" : "Teens"
+},
+{
+  "No." : 245,
+  "Book Title" : "Cosmos",
+  "Author" : "Carl Sagan",
+  "Gene" : "Scifi"
+},
+{
+  "No." : 246,
+  "Book Title" : "Cosmos",
+  "Author" : "Carl Sagan",
+  "Gene" : "Science"
+},
+{
+  "No." : 247,
+  "Book Title" : "Cricket goes Camping",
+  "Author" : "Kathleen McCarthy",
+  "Gene" : "kids"
+},
+{
+  "No." : 248,
+  "Book Title" : "Crimson Glory",
+  "Author" : "Theresa Conway",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 249,
+  "Book Title" : "Crinkleroot’s Guide to Knowing Animal Habitats",
+  "Author" : null,
+  "Gene" : "Animals"
+},
+{
+  "No." : 250,
+  "Book Title" : "Crispus Attuck",
+  "Author" : "Millender",
+  "Gene" : "Friction"
+},
+{
+  "No." : 251,
+  "Book Title" : "Crispus Attuck",
+  "Author" : "Dharathula H Miller",
+  "Gene" : null
+},
+{
+  "No." : 252,
+  "Book Title" : "CROWDED MARRIAGE",
+  "Author" : "Catherine Alliott",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 253,
+  "Book Title" : "Cry of the Peacock",
+  "Author" : "Gina Barkhordar Nahai",
+  "Gene" : "non friction"
+},
+{
+  "No." : 254,
+  "Book Title" : "Crystal",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 255,
+  "Book Title" : "DADDY",
+  "Author" : "Shange",
+  "Gene" : "Friction"
+},
+{
+  "No." : 256,
+  "Book Title" : "Daisy Divine Dancing Dog",
+  "Author" : "Gary Miller",
+  "Gene" : "kids"
+},
+{
+  "No." : 257,
+  "Book Title" : "Dark Angel",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 258,
+  "Book Title" : "DARK GIRL",
+  "Author" : "WARNER",
+  "Gene" : null
+},
+{
+  "No." : 259,
+  "Book Title" : "Dark of the Moon",
+  "Author" : "Dorothy Daniels",
+  "Gene" : "Romance"
+},
+{
+  "No." : 260,
+  "Book Title" : "Daughter Desire",
+  "Author" : "Serita Stevens",
+  "Gene" : "Paranormal Romance"
+},
+{
+  "No." : 261,
+  "Book Title" : "Define Normal",
+  "Author" : "Lttle Brown",
+  "Gene" : "non friction"
+},
+{
+  "No." : 262,
+  "Book Title" : "Distance Education: Instructional Design and Ethics",
+  "Author" : "Isaac Atzil",
+  "Gene" : "Education / Ethics"
+},
+{
+  "No." : 263,
+  "Book Title" : "Dog Man Unleashed",
+  "Author" : "Dav Pilkey",
+  "Gene" : "Children"
+},
+{
+  "No." : 264,
+  "Book Title" : "Dominican Republic",
+  "Author" : null,
+  "Gene" : "historical"
+},
+{
+  "No." : 265,
+  "Book Title" : "DON’T HURT MY PONY",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 266,
+  "Book Title" : "DON’T HURT MY PONY",
+  "Author" : "Pony Pals",
+  "Gene" : "friction"
+},
+{
+  "No." : 267,
+  "Book Title" : "Donker Web",
+  "Author" : "Fanie Viljoen",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 268,
+  "Book Title" : "Donker Web",
+  "Author" : "Fanie Viljoen",
+  "Gene" : "Afrikaans Fiction"
+},
+{
+  "No." : 269,
+  "Book Title" : "Donker Web (Workbook)",
+  "Author" : "Fanie Viljoen",
+  "Gene" : "Afrikaans / Education"
+},
+{
+  "No." : 270,
+  "Book Title" : "DRAGON'S BREATH",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 271,
+  "Book Title" : "Duets 2 Romantic",
+  "Author" : "Jennifer Drew",
+  "Gene" : "Romance / Historical Romance"
+},
+{
+  "No." : 272,
+  "Book Title" : "Eagle Trap",
+  "Author" : "Geoffrey Archer",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 273,
+  "Book Title" : "Eagle Trap",
+  "Author" : "Geoffrey Archer",
+  "Gene" : "Fiction / Thriller"
+},
+{
+  "No." : 274,
+  "Book Title" : "Eagle Trap The Burma Legacy",
+  "Author" : "Geoffrey Archer",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 275,
+  "Book Title" : "Earth and space",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 276,
+  "Book Title" : "EASY BREATH",
+  "Author" : "NICHOLAS SPARKS",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 277,
+  "Book Title" : "echo",
+  "Author" : "Ryan",
+  "Gene" : "non friction"
+},
+{
+  "No." : 278,
+  "Book Title" : "Economic & Management Sciences Learner’s Book (Grade 7)",
+  "Author" : "K. Checkley & A. Slabber",
+  "Gene" : "EMS"
+},
+{
+  "No." : 279,
+  "Book Title" : "Economic and Management Sciences CAPS Learner’s Book",
+  "Author" : "K. Checkley & A. Slabber",
+  "Gene" : "Education"
+},
+{
+  "No." : 280,
+  "Book Title" : "Economics: An Introduction",
+  "Author" : null,
+  "Gene" : "Economics"
+},
+{
+  "No." : 281,
+  "Book Title" : "Economics: British Edition",
+  "Author" : "Dornbusch & Fischer (likely)",
+  "Gene" : "Economics"
+},
+{
+  "No." : 282,
+  "Book Title" : "Economics: Principles & Practice",
+  "Author" : null,
+  "Gene" : "Economics"
+},
+{
+  "No." : 283,
+  "Book Title" : "Economics: Principles and Practice",
+  "Author" : "Black, Hattenberg & Standish",
+  "Gene" : "Economics"
+},
+{
+  "No." : 284,
+  "Book Title" : "EL Salvador Beauty Amang the Ashes",
+  "Author" : "Faith Adams",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 285,
+  "Book Title" : "EMS 9 Textbook",
+  "Author" : null,
+  "Gene" : "EMS"
+},
+{
+  "No." : 286,
+  "Book Title" : "EMS Grade 9 Textbook",
+  "Author" : "Various",
+  "Gene" : "Education"
+},
+{
+  "No." : 287,
+  "Book Title" : "Encounters",
+  "Author" : "Jason Wallance",
+  "Gene" : "Motivational"
+},
+{
+  "No." : 288,
+  "Book Title" : "Enders Game",
+  "Author" : "Orson Scott Card",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 289,
+  "Book Title" : "Engineering Graphics and Design for the Senior Secondary Phase",
+  "Author" : "Various Authors",
+  "Gene" : "Education / Engineering"
+},
+{
+  "No." : 290,
+  "Book Title" : "ENOUGH FOR LOVE",
+  "Author" : "ANGELA KEMLAY",
+  "Gene" : null
+},
+{
+  "No." : 291,
+  "Book Title" : "Escape from the carnival",
+  "Author" : "Barry Pearson",
+  "Gene" : "Friction"
+},
+{
+  "No." : 292,
+  "Book Title" : "Especially for Mothers",
+  "Author" : "Helen Steiner Rice",
+  "Gene" : "Christian Inspirational"
+},
+{
+  "No." : 293,
+  "Book Title" : "Esperanza Rising",
+  "Author" : "Pam Munoz Ryan",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 294,
+  "Book Title" : "Ethics and Spirituality",
+  "Author" : "UNISA",
+  "Gene" : "Ethics / Spirituality"
+},
+{
+  "No." : 295,
+  "Book Title" : "Every Breath",
+  "Author" : "NICHOLAS SPARKS",
+  "Gene" : "Romance"
+},
+{
+  "No." : 296,
+  "Book Title" : "Fabulous Fables",
+  "Author" : null,
+  "Gene" : "Children"
+},
+{
+  "No." : 297,
+  "Book Title" : "Farewell to Manzanar",
+  "Author" : "Jeanne Wakatsuki Houston",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 298,
+  "Book Title" : "Farmer Mike",
+  "Author" : "Elizabeth Albert",
+  "Gene" : "kids"
+},
+{
+  "No." : 299,
+  "Book Title" : "Farmer Mike",
+  "Author" : "Elizabeth Albert",
+  "Gene" : "kids"
+},
+{
+  "No." : 300,
+  "Book Title" : "Fen",
+  "Author" : "Freya North",
+  "Gene" : "Friction"
+},
+{
+  "No." : 301,
+  "Book Title" : "Financial Aspects of Marketing",
+  "Author" : "Petra Schulz, Elsabé Strydom",
+  "Gene" : "Marketing"
+},
+{
+  "No." : 302,
+  "Book Title" : "Financial Aspects of Marketing",
+  "Author" : "J.W. Strydom",
+  "Gene" : "Marketing"
+},
+{
+  "No." : 303,
+  "Book Title" : "Finding Moon",
+  "Author" : "Tony Hillerman",
+  "Gene" : "Thriller"
+},
+{
+  "No." : 304,
+  "Book Title" : "Fire & Ice",
+  "Author" : "JANET DAILEY",
+  "Gene" : "Romance"
+},
+{
+  "No." : 305,
+  "Book Title" : "Fire Company",
+  "Author" : "Ben Franklin",
+  "Gene" : "kids"
+},
+{
+  "No." : 306,
+  "Book Title" : "Fire Safety Day",
+  "Author" : "Joshua Asa",
+  "Gene" : "kids"
+},
+{
+  "No." : 307,
+  "Book Title" : "First day for Carlos",
+  "Author" : "Amanda Ferguson",
+  "Gene" : "kids"
+},
+{
+  "No." : 308,
+  "Book Title" : "First Lady",
+  "Author" : "Susan Elizabeth Phillips",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 309,
+  "Book Title" : "FLIRT",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 310,
+  "Book Title" : "Florence Pisa siena",
+  "Author" : "Bonechi Edizion",
+  "Gene" : "Memoirs"
+},
+{
+  "No." : 311,
+  "Book Title" : "Found: His Royal Baby",
+  "Author" : "Raye Morgan",
+  "Gene" : "Non Fiction"
+},
+{
+  "No." : 312,
+  "Book Title" : "Free Man",
+  "Author" : "Amos Fortune",
+  "Gene" : "Biography / Historical"
+},
+{
+  "No." : 313,
+  "Book Title" : "Free the Children",
+  "Author" : "Craig Kielburger",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 314,
+  "Book Title" : "Freeze Frame",
+  "Author" : "Phinease Ferb",
+  "Gene" : "friction"
+},
+{
+  "No." : 315,
+  "Book Title" : "Freeze Frame",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 316,
+  "Book Title" : "Friends",
+  "Author" : "Clare Catford",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 317,
+  "Book Title" : "From a family of Storytellers",
+  "Author" : "Joanna Korba",
+  "Gene" : "kids"
+},
+{
+  "No." : 318,
+  "Book Title" : "From a family of Storytellers",
+  "Author" : "Joanna Korba",
+  "Gene" : "kids"
+},
+{
+  "No." : 319,
+  "Book Title" : "Fundamentals of Cost and Management Accounting",
+  "Author" : "E. J. R. Wood",
+  "Gene" : "Accounting"
+},
+{
+  "No." : 320,
+  "Book Title" : "Fundamentals of Cost and Management Accounting (Second Edition)",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 321,
+  "Book Title" : "Fury",
+  "Author" : "G.M. Ford",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 322,
+  "Book Title" : "Fury",
+  "Author" : "G. M. Ford",
+  "Gene" : "Fiction / Crime"
+},
+{
+  "No." : 323,
+  "Book Title" : "Fuzzkouro",
+  "Author" : "Richard Smith",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 324,
+  "Book Title" : "Game Changer",
+  "Author" : null,
+  "Gene" : "non friction"
+},
+{
+  "No." : 325,
+  "Book Title" : "Garden of Shadows",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 326,
+  "Book Title" : "General Principles of Commercial Law",
+  "Author" : null,
+  "Gene" : "Law"
+},
+{
+  "No." : 327,
+  "Book Title" : "General Principles of Commercial Law",
+  "Author" : "Michael Havenga et al.",
+  "Gene" : "Law"
+},
+{
+  "No." : 328,
+  "Book Title" : "Ghost",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 329,
+  "Book Title" : "Ghost",
+  "Author" : "BAUER",
+  "Gene" : null
+},
+{
+  "No." : 330,
+  "Book Title" : "Ghost Towns",
+  "Author" : null,
+  "Gene" : "History"
+},
+{
+  "No." : 331,
+  "Book Title" : "Ghost Towns",
+  "Author" : "Unknown",
+  "Gene" : "History"
+},
+{
+  "No." : 332,
+  "Book Title" : "GHOULFRIENDS FOREVER",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 333,
+  "Book Title" : "GIANTS in the Earth\")",
+  "Author" : "ROLVAAG",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 334,
+  "Book Title" : "GIANTS in the Earth\")",
+  "Author" : "Rolvaag",
+  "Gene" : "Friction"
+},
+{
+  "No." : 335,
+  "Book Title" : "Ginger Pye",
+  "Author" : "Eleanor Estes",
+  "Gene" : "Children"
+},
+{
+  "No." : 336,
+  "Book Title" : "GM Ford Omnibus",
+  "Author" : "Black River",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 337,
+  "Book Title" : "Good Black Athletes",
+  "Author" : null,
+  "Gene" : "Sports"
+},
+{
+  "No." : 338,
+  "Book Title" : "GOSSAMER",
+  "Author" : "LOIS LOWRY",
+  "Gene" : "Friction"
+},
+{
+  "No." : 339,
+  "Book Title" : "GRASS IN THE EARTH",
+  "Author" : "ROUANG",
+  "Gene" : "Friction"
+},
+{
+  "No." : 340,
+  "Book Title" : "Great aunt Gertrude and the handbag thief 1",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 341,
+  "Book Title" : "Great aunt Gertrude and the handbag thief 2",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 342,
+  "Book Title" : "Great aunt Gertrude and the handbag thief 3",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 343,
+  "Book Title" : "Greeks baby of redemption",
+  "Author" : "Lynne Graham",
+  "Gene" : "Friction"
+},
+{
+  "No." : 344,
+  "Book Title" : "Greenwitch",
+  "Author" : "Susan Cooper",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 345,
+  "Book Title" : "Gross Jokes, Riddles & Nonsense",
+  "Author" : "Holly Kowitt",
+  "Gene" : "Kids"
+},
+{
+  "No." : 346,
+  "Book Title" : "Guide for SACC Christians",
+  "Author" : "Christian Aid",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 347,
+  "Book Title" : "Haiti",
+  "Author" : "ANTHONY HAITT",
+  "Gene" : "Kids"
+},
+{
+  "No." : 348,
+  "Book Title" : "Haiti_Places & People of the World",
+  "Author" : "Suzanne Anthony",
+  "Gene" : "Geographic"
+},
+{
+  "No." : 349,
+  "Book Title" : "HAITT",
+  "Author" : "ANTHONY",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 350,
+  "Book Title" : "Harriet Tubman_Conductor on the Underground Railroad",
+  "Author" : "Ann Petry",
+  "Gene" : "Friction"
+},
+{
+  "No." : 351,
+  "Book Title" : "Hatupatu abd the birdwoman",
+  "Author" : "Joy Cowley",
+  "Gene" : "kids"
+},
+{
+  "No." : 352,
+  "Book Title" : "Hazards of Local Anaesthetic Injections",
+  "Author" : null,
+  "Gene" : "Medical"
+},
+{
+  "No." : 353,
+  "Book Title" : "Heaven is under our feet",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 354,
+  "Book Title" : "Heaven is under our feet",
+  "Author" : "DON HENLEY",
+  "Gene" : null
+},
+{
+  "No." : 355,
+  "Book Title" : "Heidi",
+  "Author" : "Johanna Spyri",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 356,
+  "Book Title" : "Heirloom",
+  "Author" : "Candace Camp",
+  "Gene" : "Romance"
+},
+{
+  "No." : 357,
+  "Book Title" : "Herbal Home Remedies",
+  "Author" : "Julie C. Todd",
+  "Gene" : "Health / Natural Remedies"
+},
+{
+  "No." : 358,
+  "Book Title" : "Heroes and helpers",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "Animals"
+},
+{
+  "No." : 359,
+  "Book Title" : "Heroes and helpers 2",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 360,
+  "Book Title" : "HIGH SCHOOL MUSICAL",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 361,
+  "Book Title" : "HIS DARK MATERIALS",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 362,
+  "Book Title" : "HIS DARK MATERIALS",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 363,
+  "Book Title" : "His Royal Baby",
+  "Author" : "Raye Morgan",
+  "Gene" : "Romance"
+},
+{
+  "No." : 364,
+  "Book Title" : "His Royal Baby",
+  "Author" : "Raye Morgan",
+  "Gene" : "Romance"
+},
+{
+  "No." : 365,
+  "Book Title" : "His Substitute Wife",
+  "Author" : "Jeanette Oke",
+  "Gene" : "Romance"
+},
+{
+  "No." : 366,
+  "Book Title" : "His Substitute Wife",
+  "Author" : "Dorothy Clark",
+  "Gene" : "Romance"
+},
+{
+  "No." : 367,
+  "Book Title" : "HIV & AIDS: Church Communities Confronting",
+  "Author" : "Gideon Byamugisha",
+  "Gene" : "Theology / Social Issues"
+},
+{
+  "No." : 368,
+  "Book Title" : "HK SELECTION",
+  "Author" : "CLARK",
+  "Gene" : null
+},
+{
+  "No." : 369,
+  "Book Title" : "Honey",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 370,
+  "Book Title" : "HOPE",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 371,
+  "Book Title" : "HOPE",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 372,
+  "Book Title" : "How to Beat a Bully Without Really Trying",
+  "Author" : "Scott Starkey",
+  "Gene" : "Teens"
+},
+{
+  "No." : 373,
+  "Book Title" : "How to Beat the Bully",
+  "Author" : "Starkey",
+  "Gene" : "Children's Self-Help"
+},
+{
+  "No." : 374,
+  "Book Title" : "I want to go Camping",
+  "Author" : "Ann Rossi",
+  "Gene" : "kids"
+},
+{
+  "No." : 375,
+  "Book Title" : "Imibengo",
+  "Author" : "A.T Kheswa",
+  "Gene" : null
+},
+{
+  "No." : 376,
+  "Book Title" : "In the arms of heiress",
+  "Author" : "Maggie Robison",
+  "Gene" : "Friction"
+},
+{
+  "No." : 377,
+  "Book Title" : "In the Arms of the Heiress",
+  "Author" : "Maggie Robinson",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 378,
+  "Book Title" : "IN THE SOME OF THE",
+  "Author" : "MAGGIE ROBINSON",
+  "Gene" : null
+},
+{
+  "No." : 379,
+  "Book Title" : "In Understanding Be Men: A Handbook of Christian Doctrine",
+  "Author" : "T. C. Hammond (ed. David F. Wright)",
+  "Gene" : "Christian Doctrine"
+},
+{
+  "No." : 380,
+  "Book Title" : "INCANTATI",
+  "Author" : "HOFEMAN",
+  "Gene" : "non friction"
+},
+{
+  "No." : 381,
+  "Book Title" : "Indiana Jones and the temple of Doom",
+  "Author" : "Weyn",
+  "Gene" : "friction"
+},
+{
+  "No." : 382,
+  "Book Title" : "INNOCENT VICTIM",
+  "Author" : "DICKERSON",
+  "Gene" : null
+},
+{
+  "No." : 383,
+  "Book Title" : "Insect Metamorphosis",
+  "Author" : "Unknown",
+  "Gene" : "Science / Biology"
+},
+{
+  "No." : 384,
+  "Book Title" : "Insect Metamorphosis - From egg to Adult",
+  "Author" : "Ron an Nancy Goor",
+  "Gene" : "Animals"
+},
+{
+  "No." : 385,
+  "Book Title" : "Insects and Metamorphosis",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 386,
+  "Book Title" : "Inshot: Collection of Brief Creative",
+  "Author" : "Bernard Cooper",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 387,
+  "Book Title" : "Introduction to Marketing",
+  "Author" : "Russell Abratt",
+  "Gene" : "Marketing"
+},
+{
+  "No." : 388,
+  "Book Title" : "Introduction to Marketing (Second Edition)",
+  "Author" : "J.W. Strydom",
+  "Gene" : "Marketing"
+},
+{
+  "No." : 389,
+  "Book Title" : "INTRODUCTION TO POLITICAL SCIENCE FOR AFRICAN STUDENTS",
+  "Author" : "ENWABUZ & MUELLER",
+  "Gene" : null
+},
+{
+  "No." : 390,
+  "Book Title" : "IsiZulu Sethu Ibanga 9 Incwadi Yomfundi",
+  "Author" : null,
+  "Gene" : "IsiZulu"
+},
+{
+  "No." : 391,
+  "Book Title" : "IsiZulu Sethu Ibanga 9 Incwadi Yomfundi (Duplicate)",
+  "Author" : null,
+  "Gene" : "IsiZulu"
+},
+{
+  "No." : 392,
+  "Book Title" : "Island of Blue Dolphins",
+  "Author" : "Scott O'Dell",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 393,
+  "Book Title" : "Its Time to Play!",
+  "Author" : "Amy Jones",
+  "Gene" : "Kids"
+},
+{
+  "No." : 394,
+  "Book Title" : "Jacob Have I Loved (1)",
+  "Author" : "Katherine Paterson",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 395,
+  "Book Title" : "Jacob Have I Loved (2)",
+  "Author" : "Katherine Paterson",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 396,
+  "Book Title" : "Jacqueline Wilson: Bad Girls",
+  "Author" : "Jacqueline Wilson",
+  "Gene" : "Children's Fiction"
+},
+{
+  "No." : 397,
+  "Book Title" : "Jamaica",
+  "Author" : null,
+  "Gene" : "historical"
+},
+{
+  "No." : 398,
+  "Book Title" : "James in a mess and other Thomas the tank Engine Stories",
+  "Author" : "Rev.W.Awdry",
+  "Gene" : "kids"
+},
+{
+  "No." : 399,
+  "Book Title" : "JONES AND THE TEMPPLE OF DOOM",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 400,
+  "Book Title" : "Juan Bobo",
+  "Author" : "Julian Rojas",
+  "Gene" : "kids"
+},
+{
+  "No." : 401,
+  "Book Title" : "Keep It Simple",
+  "Author" : "Allan & Zanita Meyer",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 402,
+  "Book Title" : "Keith's Croak",
+  "Author" : "adele geras",
+  "Gene" : "kids"
+},
+{
+  "No." : 403,
+  "Book Title" : "Key to the Treasure",
+  "Author" : "Peggy Parish",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 404,
+  "Book Title" : "Kidnapped",
+  "Author" : "Robert Louise Stevenson",
+  "Gene" : "children's fiction"
+},
+{
+  "No." : 405,
+  "Book Title" : "Kidnapped",
+  "Author" : "Stevenson",
+  "Gene" : "Friction"
+},
+{
+  "No." : 406,
+  "Book Title" : "Kidnapped",
+  "Author" : "STEVENSON",
+  "Gene" : null
+},
+{
+  "No." : 407,
+  "Book Title" : "Kidnapped",
+  "Author" : "Robert Louis Stevenson",
+  "Gene" : "Adventure Classic"
+},
+{
+  "No." : 408,
+  "Book Title" : "KILONDIKKER FRVTER\")",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 409,
+  "Book Title" : "Kin Park",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 410,
+  "Book Title" : "King of Ashes",
+  "Author" : "RAYMOND E. FEIST",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 411,
+  "Book Title" : "King of Ashes",
+  "Author" : "RAYMOND E. FEIST",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 412,
+  "Book Title" : "King Solomon's Mines",
+  "Author" : "H. Rider Haggard",
+  "Gene" : "Adventure Classic"
+},
+{
+  "No." : 413,
+  "Book Title" : "Kiss an Angel",
+  "Author" : "Susan Elizabeth Phillips",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 414,
+  "Book Title" : "Klondike Fever",
+  "Author" : "Pierre Berton (likely, common author)",
+  "Gene" : "History"
+},
+{
+  "No." : 415,
+  "Book Title" : "Klondike Fever",
+  "Author" : "Unknown",
+  "Gene" : "Adventure"
+},
+{
+  "No." : 416,
+  "Book Title" : "LA BELLE SAUVAGE",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 417,
+  "Book Title" : "LA BELLE SAUVAGE",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 418,
+  "Book Title" : "last of the Jedi 10",
+  "Author" : "Star wars",
+  "Gene" : "friction"
+},
+{
+  "No." : 419,
+  "Book Title" : "last of the Jedi 7",
+  "Author" : "Star wars",
+  "Gene" : "friction"
+},
+{
+  "No." : 420,
+  "Book Title" : "last of the Jedi 9",
+  "Author" : "Star wars",
+  "Gene" : "friction"
+},
+{
+  "No." : 421,
+  "Book Title" : "Lazy Fox 1",
+  "Author" : "Analee Justice",
+  "Gene" : "kids"
+},
+{
+  "No." : 422,
+  "Book Title" : "Lazy Fox 2",
+  "Author" : "Analee Justice",
+  "Gene" : "kids"
+},
+{
+  "No." : 423,
+  "Book Title" : "Lead Like Jesus",
+  "Author" : "Ken Blanchard & Phil Hodges",
+  "Gene" : "Christian Leadership"
+},
+{
+  "No." : 424,
+  "Book Title" : "Learn About Sounds",
+  "Author" : "Various Authors",
+  "Gene" : "Children's Learning"
+},
+{
+  "No." : 425,
+  "Book Title" : "Lets go Camping",
+  "Author" : "Christopher Sherman",
+  "Gene" : "kids"
+},
+{
+  "No." : 426,
+  "Book Title" : "Lets go Camping",
+  "Author" : "Christopher Sherman",
+  "Gene" : "kids"
+},
+{
+  "No." : 427,
+  "Book Title" : "Lets Visit Cuba",
+  "Author" : "John Griffiths",
+  "Gene" : "Geographic"
+},
+{
+  "No." : 428,
+  "Book Title" : "Leviathan",
+  "Author" : "Scott Westerfeld",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 429,
+  "Book Title" : "LIFE OF PI 1",
+  "Author" : "YANN MARTEL",
+  "Gene" : "friction"
+},
+{
+  "No." : 430,
+  "Book Title" : "LIFE OF PI 2",
+  "Author" : "YANN MARTEL",
+  "Gene" : "friction"
+},
+{
+  "No." : 431,
+  "Book Title" : "LIFE OF PI 3",
+  "Author" : "YANN MARTEL",
+  "Gene" : "friction"
+},
+{
+  "No." : 432,
+  "Book Title" : "Lightning Strikes",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 433,
+  "Book Title" : "Like the Flowing River",
+  "Author" : "Paulo Coelho",
+  "Gene" : "Inspirational Essays"
+},
+{
+  "No." : 434,
+  "Book Title" : "Lioness Arising",
+  "Author" : "Lisa Bevere",
+  "Gene" : "Christian Women's Growth"
+},
+{
+  "No." : 435,
+  "Book Title" : "LIONSERVARE",
+  "Author" : "FROST",
+  "Gene" : "Romance"
+},
+{
+  "No." : 436,
+  "Book Title" : "little bear's big house",
+  "Author" : "Judy Cooper",
+  "Gene" : "kids"
+},
+{
+  "No." : 437,
+  "Book Title" : "Little Ladybug (1)",
+  "Author" : "Ovale",
+  "Gene" : "Kids"
+},
+{
+  "No." : 438,
+  "Book Title" : "Little Ladybug (2)",
+  "Author" : "Ovale",
+  "Gene" : "Kids"
+},
+{
+  "No." : 439,
+  "Book Title" : "Lizzie for President",
+  "Author" : "Lizzie McGuire",
+  "Gene" : "Kids"
+},
+{
+  "No." : 440,
+  "Book Title" : "Lock the gate",
+  "Author" : "Elizabeth Albert",
+  "Gene" : "kids"
+},
+{
+  "No." : 441,
+  "Book Title" : "Lock the gate",
+  "Author" : "Elizabeth Albert",
+  "Gene" : "kids"
+},
+{
+  "No." : 442,
+  "Book Title" : "Look Great Feel Great",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Health & Motivation"
+},
+{
+  "No." : 443,
+  "Book Title" : "LOOKING FOR BOBOWICZ",
+  "Author" : "PINKWATER?",
+  "Gene" : "Western / Adventure"
+},
+{
+  "No." : 444,
+  "Book Title" : "LOOKING FOR BOBOWICZ",
+  "Author" : "Pinkwater",
+  "Gene" : "Friction"
+},
+{
+  "No." : 445,
+  "Book Title" : "Looser/queen",
+  "Author" : "Andersn",
+  "Gene" : "non friction"
+},
+{
+  "No." : 446,
+  "Book Title" : "Lord of the Flies",
+  "Author" : "William Golding",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 447,
+  "Book Title" : "Lord of the Flies",
+  "Author" : "William Golding",
+  "Gene" : "Friction"
+},
+{
+  "No." : 448,
+  "Book Title" : "Lord of the Flies",
+  "Author" : "WILLIAM GOLDING",
+  "Gene" : null
+},
+{
+  "No." : 449,
+  "Book Title" : "Love Poems",
+  "Author" : "Matt Poems",
+  "Gene" : "kids"
+},
+{
+  "No." : 450,
+  "Book Title" : "Lowriders in Space",
+  "Author" : "Cathy camper",
+  "Gene" : "Fantancy"
+},
+{
+  "No." : 451,
+  "Book Title" : "LUE PULL IN THE CARD",
+  "Author" : "HAL",
+  "Gene" : "non friction"
+},
+{
+  "No." : 452,
+  "Book Title" : "M & M and Munny Mess",
+  "Author" : "Pat Ross",
+  "Gene" : "kids"
+},
+{
+  "No." : 453,
+  "Book Title" : "MAGICIAN",
+  "Author" : "RAYMOND E. FEIST",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 454,
+  "Book Title" : "MAGICIAN",
+  "Author" : "RAYMOND E. FEIST",
+  "Gene" : "Romance / General Fiction"
+},
+{
+  "No." : 455,
+  "Book Title" : "Map my community",
+  "Author" : "Harriet Brundle",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 456,
+  "Book Title" : "MARCUS MILLIONS",
+  "Author" : "SLEATOR",
+  "Gene" : null
+},
+{
+  "No." : 457,
+  "Book Title" : "Marcus's Millions",
+  "Author" : "Sleator",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 458,
+  "Book Title" : "Marsblield Dream\")",
+  "Author" : "FLETCHER",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 459,
+  "Book Title" : "MARSHFIELD DREAM",
+  "Author" : "Fletcher",
+  "Gene" : "Friction"
+},
+{
+  "No." : 460,
+  "Book Title" : "MARY ON HORSEBACK",
+  "Author" : "Wells",
+  "Gene" : "Friction"
+},
+{
+  "No." : 461,
+  "Book Title" : "Mary's Meadow",
+  "Author" : "Adele Geras",
+  "Gene" : "kids"
+},
+{
+  "No." : 462,
+  "Book Title" : "Mathematics 10 Textbook (Mind Action Series)",
+  "Author" : "M.D. Phillips, J. Basson, C. Botha, J. Odendaal",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 463,
+  "Book Title" : "Mathematics 8 Textbook (Mind Action Series)",
+  "Author" : "M.D. Phillips, J. Basson, C. Botha, J. Odendaal",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 464,
+  "Book Title" : "Mathematics 9 Textbook (Mind Action Series)",
+  "Author" : "M.D. Phillips, J. Basson, C. Botha, J. Odendaal",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 465,
+  "Book Title" : "Mathematics Textbook Grade 12",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 466,
+  "Book Title" : "Mathematics Textbook Grade 9",
+  "Author" : "Mark Phillips",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 467,
+  "Book Title" : "Maths Handbook & Study Guide – Grade 9",
+  "Author" : "Kevin Smith",
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 468,
+  "Book Title" : "Meditation",
+  "Author" : "Unknown",
+  "Gene" : "Spiritual Practice"
+},
+{
+  "No." : 469,
+  "Book Title" : "Melody",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 470,
+  "Book Title" : "Melusi's Everyday Zulu",
+  "Author" : "Melusi Tshabalala",
+  "Gene" : "Language / Zulu"
+},
+{
+  "No." : 471,
+  "Book Title" : "Milkweed",
+  "Author" : "Jerry Spinelli",
+  "Gene" : "Teens"
+},
+{
+  "No." : 472,
+  "Book Title" : "Mind Action Series Mathematics Grade 12",
+  "Author" : "M. D. Phillips, J. Basson & C. Botha",
+  "Gene" : "Education / Mathematics"
+},
+{
+  "No." : 473,
+  "Book Title" : "Misty of Chin Coteague",
+  "Author" : "Marguerite Henry",
+  "Gene" : null
+},
+{
+  "No." : 474,
+  "Book Title" : "MO Everyday Heroes",
+  "Author" : "Shawn Doyle & Lauren Anderson",
+  "Gene" : "Motivational"
+},
+{
+  "No." : 475,
+  "Book Title" : "Moira Shearer - Dancer of Today",
+  "Author" : "Hugh Fisher",
+  "Gene" : "Biography"
+},
+{
+  "No." : 476,
+  "Book Title" : "Moment of Love",
+  "Author" : "DENISE ROBINS",
+  "Gene" : "Romance"
+},
+{
+  "No." : 477,
+  "Book Title" : "MOTION OFNEED",
+  "Author" : null,
+  "Gene" : "Romance"
+},
+{
+  "No." : 478,
+  "Book Title" : "Motivation of Employees through Performance Appraisal",
+  "Author" : "Various Authors",
+  "Gene" : "Human Resources / Management"
+},
+{
+  "No." : 479,
+  "Book Title" : "Mountain Dog",
+  "Author" : "Margarita Engle",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 480,
+  "Book Title" : "Mrs Corerlet;s Magicians",
+  "Author" : "Mary Nash",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 481,
+  "Book Title" : "My Brother Sam is Dead",
+  "Author" : "James Lincon Collier",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 482,
+  "Book Title" : "My brother Sam is Dead",
+  "Author" : "James Lincoln Collier",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 483,
+  "Book Title" : "MY BROTHER'S A KEEPER",
+  "Author" : "Micheal Hardcastle",
+  "Gene" : "non friction"
+},
+{
+  "No." : 484,
+  "Book Title" : "MY BROTHER'S A KEEPER",
+  "Author" : "SOSAM HAL LONG",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 485,
+  "Book Title" : "MY BROTHERS KEEPER",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 486,
+  "Book Title" : "MY FATHERS DRAGON",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 487,
+  "Book Title" : "My father's Dragon 1",
+  "Author" : "Gannett",
+  "Gene" : "friction"
+},
+{
+  "No." : 488,
+  "Book Title" : "My father's Dragon 2",
+  "Author" : "Gannett",
+  "Gene" : "friction"
+},
+{
+  "No." : 489,
+  "Book Title" : "My Little Book of Prayers",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 490,
+  "Book Title" : "My Maths Buddy",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 491,
+  "Book Title" : "MY SISTER'S KEEPER",
+  "Author" : "JODI PICOULT",
+  "Gene" : "Friction"
+},
+{
+  "No." : 492,
+  "Book Title" : "Natural Sciences Grade 9",
+  "Author" : "A. Olivier",
+  "Gene" : "Science"
+},
+{
+  "No." : 493,
+  "Book Title" : "Nature watch",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "animals"
+},
+{
+  "No." : 494,
+  "Book Title" : "Nature watch 2",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 495,
+  "Book Title" : "Neighborhood visit",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 496,
+  "Book Title" : "Neighborhood visit",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 497,
+  "Book Title" : "Never Give Up!",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Motivation"
+},
+{
+  "No." : 498,
+  "Book Title" : "New Era Accounting Grade 10 Learner's Book",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 499,
+  "Book Title" : "New Era Accounting Grade 10 Learner's Book",
+  "Author" : "Various",
+  "Gene" : "Education / Accounting"
+},
+{
+  "No." : 500,
+  "Book Title" : "New Era Accounting Grade 10 Workbook 1",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 501,
+  "Book Title" : "New Era Accounting Grade 10 Workbook 1",
+  "Author" : "Various",
+  "Gene" : "Education / Accounting"
+},
+{
+  "No." : 502,
+  "Book Title" : "New Era Accounting Grade 11 Learner's Book",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 503,
+  "Book Title" : "New Era Accounting Grade 11 Learner's Book",
+  "Author" : "Various",
+  "Gene" : "Education / Accounting"
+},
+{
+  "No." : 504,
+  "Book Title" : "New Era Accounting Grade 12 Learner's Book",
+  "Author" : null,
+  "Gene" : "Accounting"
+},
+{
+  "No." : 505,
+  "Book Title" : "New Era Accounting Grade 12 Learner's Book",
+  "Author" : "Various",
+  "Gene" : "Education / Accounting"
+},
+{
+  "No." : 506,
+  "Book Title" : "NEW INGLAPES",
+  "Author" : "Robin Malan",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 507,
+  "Book Title" : "New Testament Interpretation",
+  "Author" : "Various Authors",
+  "Gene" : "Biblical Studies"
+},
+{
+  "No." : 508,
+  "Book Title" : "Nicarangua Struggling with change",
+  "Author" : "Faith Admas",
+  "Gene" : "Historical"
+},
+{
+  "No." : 509,
+  "Book Title" : "NIGHT IN THE MUSEUM",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 510,
+  "Book Title" : "Night mesuim",
+  "Author" : "Steel",
+  "Gene" : "friction"
+},
+{
+  "No." : 511,
+  "Book Title" : "Night of the Dragons",
+  "Author" : "Michael Anthiny Steele",
+  "Gene" : "Non Fiction"
+},
+{
+  "No." : 512,
+  "Book Title" : "Night of the Hawk",
+  "Author" : "Dale Brown",
+  "Gene" : "Fiction / Thriller"
+},
+{
+  "No." : 513,
+  "Book Title" : "Nine,Ten,Lets go then",
+  "Author" : "Wendy Benger",
+  "Gene" : "kids"
+},
+{
+  "No." : 514,
+  "Book Title" : "Notes from a Small Island",
+  "Author" : "Bill Bryson",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 515,
+  "Book Title" : "Nothing but the truth",
+  "Author" : "Nicole Davidson",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 516,
+  "Book Title" : "Nothing But Trouble",
+  "Author" : "Christina Dodd",
+  "Gene" : "Romance"
+},
+{
+  "No." : 517,
+  "Book Title" : "Obsession",
+  "Author" : "Karen Robardson",
+  "Gene" : "Romance"
+},
+{
+  "No." : 518,
+  "Book Title" : "OF LOVE AND SHADOWS",
+  "Author" : "ISABEL ALLENDE",
+  "Gene" : "Literary Fiction / Magical Realism"
+},
+{
+  "No." : 519,
+  "Book Title" : "Old America Ghost Towns",
+  "Author" : "Lynn Stone",
+  "Gene" : "History"
+},
+{
+  "No." : 520,
+  "Book Title" : "Olivia",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 521,
+  "Book Title" : "ON THE COURT WITH VENUS",
+  "Author" : "CHRISTOPHER",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 522,
+  "Book Title" : "On the Court with Venus & Serena Williams",
+  "Author" : "Matt Christopher",
+  "Gene" : "Sports"
+},
+{
+  "No." : 523,
+  "Book Title" : "ON THE GREAT WIND, JESUS AND THE HOLY LORD",
+  "Author" : "CHRISTOPHERIE",
+  "Gene" : "Friction"
+},
+{
+  "No." : 524,
+  "Book Title" : "Once Upon a Dream A twisted tale",
+  "Author" : "Liz Braswell",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 525,
+  "Book Title" : "Onderwereld",
+  "Author" : null,
+  "Gene" : "Afrikaans"
+},
+{
+  "No." : 526,
+  "Book Title" : "Onderwêreld",
+  "Author" : "Fanie Viljoen",
+  "Gene" : "Afrikaans Fiction"
+},
+{
+  "No." : 527,
+  "Book Title" : "Organizational Behavior",
+  "Author" : "Stephen Robbins",
+  "Gene" : "Management"
+},
+{
+  "No." : 528,
+  "Book Title" : "Organizational Behavior (Second Edition)",
+  "Author" : null,
+  "Gene" : "Business"
+},
+{
+  "No." : 529,
+  "Book Title" : "Otkara",
+  "Author" : "Robert Skimin",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 530,
+  "Book Title" : "Out of Control",
+  "Author" : "Candace Schuler",
+  "Gene" : "non friction"
+},
+{
+  "No." : 531,
+  "Book Title" : "Out of Control",
+  "Author" : "Candice Schuler",
+  "Gene" : "Romance"
+},
+{
+  "No." : 532,
+  "Book Title" : "Owl at home",
+  "Author" : "Arnold Lobel",
+  "Gene" : "kids"
+},
+{
+  "No." : 533,
+  "Book Title" : "Oxford Illustrated Science Encyclopedia",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 534,
+  "Book Title" : "Oxford Successful Mathematics – Grade 7 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 535,
+  "Book Title" : "Oxford Successful Mathematics – Grade 8 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 536,
+  "Book Title" : "Paper Magic",
+  "Author" : "Mcgill",
+  "Gene" : "friction"
+},
+{
+  "No." : 537,
+  "Book Title" : "Pass It On",
+  "Author" : "Various Authors",
+  "Gene" : "Children's Bible Stories"
+},
+{
+  "No." : 538,
+  "Book Title" : "Pax",
+  "Author" : "Penny Packer",
+  "Gene" : "Friction"
+},
+{
+  "No." : 539,
+  "Book Title" : "Pax",
+  "Author" : "PENNY PACKER",
+  "Gene" : null
+},
+{
+  "No." : 540,
+  "Book Title" : "Pearl in the mist",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 541,
+  "Book Title" : "Pearson Platinum – Mathematics Grade 10 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 542,
+  "Book Title" : "Pearson Platinum – Mathematics Grade 11 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 543,
+  "Book Title" : "Pearson Platinum – Mathematics Grade 12 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 544,
+  "Book Title" : "Penguins",
+  "Author" : null,
+  "Gene" : "kids"
+},
+{
+  "No." : 545,
+  "Book Title" : "PETS REVENGE",
+  "Author" : "ELLEN",
+  "Gene" : null
+},
+{
+  "No." : 546,
+  "Book Title" : "PETS REVENGE",
+  "Author" : "Edgar and Ellen",
+  "Gene" : "Friction"
+},
+{
+  "No." : 547,
+  "Book Title" : "PETS REVENGE",
+  "Author" : "Edgar and Ellen",
+  "Gene" : "non friction"
+},
+{
+  "No." : 548,
+  "Book Title" : "Phenomenal Woman",
+  "Author" : "Chris Kennedy",
+  "Gene" : "Inspirational / Women"
+},
+{
+  "No." : 549,
+  "Book Title" : "Pilates: The Complete Body System",
+  "Author" : "Michael King",
+  "Gene" : "Health & Fitness"
+},
+{
+  "No." : 550,
+  "Book Title" : "Pirates of Turtle Rock",
+  "Author" : "Richard W Jennings",
+  "Gene" : "Kids"
+},
+{
+  "No." : 551,
+  "Book Title" : "Planting Beans and Beets",
+  "Author" : "Hal Martin",
+  "Gene" : "kids"
+},
+{
+  "No." : 552,
+  "Book Title" : "Planting Beans and Beets",
+  "Author" : "Hal Martin",
+  "Gene" : "kids"
+},
+{
+  "No." : 553,
+  "Book Title" : "Plants That Sting",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 554,
+  "Book Title" : "Platinum Social Sciences Grade 8",
+  "Author" : null,
+  "Gene" : "Social Sciences"
+},
+{
+  "No." : 555,
+  "Book Title" : "Platinum Social Sciences Grade 9",
+  "Author" : null,
+  "Gene" : "Social Sciences"
+},
+{
+  "No." : 556,
+  "Book Title" : "Ponies st the Point",
+  "Author" : "Ben M Baglio",
+  "Gene" : "non friction"
+},
+{
+  "No." : 557,
+  "Book Title" : "Power Thoughts",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Motivation"
+},
+{
+  "No." : 558,
+  "Book Title" : "Premier Mathematics – Grade 9 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Mathematics"
+},
+{
+  "No." : 559,
+  "Book Title" : "Princess_A Whole New World",
+  "Author" : "Grace Windsor",
+  "Gene" : "Kids"
+},
+{
+  "No." : 560,
+  "Book Title" : "Proclaiming the Word",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Ministry / Training"
+},
+{
+  "No." : 561,
+  "Book Title" : "Psychology: Only Study Guide for PSC3701",
+  "Author" : "UNISA",
+  "Gene" : "Academic / Psychology"
+},
+{
+  "No." : 562,
+  "Book Title" : "Public Relations",
+  "Author" : null,
+  "Gene" : "Public Relations"
+},
+{
+  "No." : 563,
+  "Book Title" : "Puerto rico",
+  "Author" : "EXPERT",
+  "Gene" : "historical"
+},
+{
+  "No." : 564,
+  "Book Title" : "Pumpkin mountain and the nightingale",
+  "Author" : "nelson",
+  "Gene" : "kids"
+},
+{
+  "No." : 565,
+  "Book Title" : "Purchasing and Supply Chain Management",
+  "Author" : "Lysons and Farrington",
+  "Gene" : "Supply Chain"
+},
+{
+  "No." : 566,
+  "Book Title" : "Purchasing and Supply Chain Management (8th Edition)",
+  "Author" : "Lysons & Farrington",
+  "Gene" : "Supply Chain"
+},
+{
+  "No." : 567,
+  "Book Title" : "Questions About Life & Morality",
+  "Author" : "Louis Kretzschmar et al.",
+  "Gene" : "Christian Ethics"
+},
+{
+  "No." : 568,
+  "Book Title" : "Questions are the Answers",
+  "Author" : "Allan Pease",
+  "Gene" : "Educational"
+},
+{
+  "No." : 569,
+  "Book Title" : "Questions are the Answers",
+  "Author" : "ALLAN PEASE",
+  "Gene" : "Self-Help / Business"
+},
+{
+  "No." : 570,
+  "Book Title" : "QUESTIONS ARE THE ANSWERS: HOW TO GET TO 'YES' IN NETWORK MARKETING",
+  "Author" : "Allan Pease",
+  "Gene" : "kids"
+},
+{
+  "No." : 571,
+  "Book Title" : "Questions of Life",
+  "Author" : "Nicky Gumbel",
+  "Gene" : "Christian Apologetics"
+},
+{
+  "No." : 572,
+  "Book Title" : "Racing moon",
+  "Author" : "Armstrong",
+  "Gene" : "Friction"
+},
+{
+  "No." : 573,
+  "Book Title" : "RACING THE MOON",
+  "Author" : "ARMSTRONG",
+  "Gene" : "Art History / Nonfiction"
+},
+{
+  "No." : 574,
+  "Book Title" : "Rain",
+  "Author" : "Wendy Benger",
+  "Gene" : "kids"
+},
+{
+  "No." : 575,
+  "Book Title" : "Rammany",
+  "Author" : "Florence Hurd",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 576,
+  "Book Title" : "Ramona and Her Father",
+  "Author" : "Beverly Cleary",
+  "Gene" : "Non Fiction"
+},
+{
+  "No." : 577,
+  "Book Title" : "Ramona Quimby Age 8",
+  "Author" : "Beverly Cleary",
+  "Gene" : "Kids"
+},
+{
+  "No." : 578,
+  "Book Title" : "READY TO WED",
+  "Author" : "JOAN HOIL",
+  "Gene" : null
+},
+{
+  "No." : 579,
+  "Book Title" : "REFLECTION",
+  "Author" : "ELIZABETH LIM",
+  "Gene" : null
+},
+{
+  "No." : 580,
+  "Book Title" : "RIGGED",
+  "Author" : "BEN MEZRICH",
+  "Gene" : "Friction"
+},
+{
+  "No." : 581,
+  "Book Title" : "RIGGED",
+  "Author" : "BEN MEZRICH",
+  "Gene" : null
+},
+{
+  "No." : 582,
+  "Book Title" : "Robinson Crusoe",
+  "Author" : "Daniel Defoe",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 583,
+  "Book Title" : "Robinson Crusoe",
+  "Author" : "Daniel Defoe",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 584,
+  "Book Title" : "Robinson Crusoe",
+  "Author" : "Daniel Defoe",
+  "Gene" : "Classic Fiction"
+},
+{
+  "No." : 585,
+  "Book Title" : "Rodeo Drive",
+  "Author" : "Barney Leason",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 586,
+  "Book Title" : "Ron and Nancy Goop",
+  "Author" : "Unknown",
+  "Gene" : "Children's Fiction"
+},
+{
+  "No." : 587,
+  "Book Title" : "Rose",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 588,
+  "Book Title" : "Rose Madder",
+  "Author" : "Stephen King",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 589,
+  "Book Title" : "Runaways",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 590,
+  "Book Title" : "SABOTA",
+  "Author" : "THADDIX",
+  "Gene" : null
+},
+{
+  "No." : 591,
+  "Book Title" : "Sabotaged",
+  "Author" : "Margaret Peterson Haddix",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 592,
+  "Book Title" : "Sadaki and the Thousand Paper Cranes (1)",
+  "Author" : "Eleanor Coerr",
+  "Gene" : "Kids"
+},
+{
+  "No." : 593,
+  "Book Title" : "Sadaki and the Thousand Paper Cranes (2)",
+  "Author" : "Eleanor Coerr",
+  "Gene" : "Kids"
+},
+{
+  "No." : 594,
+  "Book Title" : "Sadako and the Thousand Paper Cranes",
+  "Author" : "ELEANOR COERR",
+  "Gene" : "Children's / Historical Fiction"
+},
+{
+  "No." : 595,
+  "Book Title" : "Sam the minuteman",
+  "Author" : "Nathiel Benchley",
+  "Gene" : "kids"
+},
+{
+  "No." : 596,
+  "Book Title" : "Saving Lucas Biggs",
+  "Author" : "Marisa de los Santos and David Teague",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 597,
+  "Book Title" : "Scholar’s Zulu Dictionary",
+  "Author" : "G. R. Dent & C. L. S. Nyembezi",
+  "Gene" : "Language / Zulu"
+},
+{
+  "No." : 598,
+  "Book Title" : "Schrodingers Cat Trilogy",
+  "Author" : "Robert Anton Wilson",
+  "Gene" : "Scifi"
+},
+{
+  "No." : 599,
+  "Book Title" : "Scottish brides",
+  "Author" : "LAURENS RANNEY",
+  "Gene" : "Romance"
+},
+{
+  "No." : 600,
+  "Book Title" : "Secrets About Every Woman Should Know",
+  "Author" : "Barbara De Angelis",
+  "Gene" : "Relationships / Self-Help"
+},
+{
+  "No." : 601,
+  "Book Title" : "Seeds and Sprouts for Life",
+  "Author" : "Bernard Jensen",
+  "Gene" : "Health & Nutrition"
+},
+{
+  "No." : 602,
+  "Book Title" : "Seeds on the move",
+  "Author" : "Christina Wilsdon",
+  "Gene" : "kids"
+},
+{
+  "No." : 603,
+  "Book Title" : "Sekuyasa Naxhithi 2nd Edition",
+  "Author" : null,
+  "Gene" : "IsiZulu"
+},
+{
+  "No." : 604,
+  "Book Title" : "Select Editions Short Stories",
+  "Author" : "Karen Robards, Soheir Khashoggi",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 605,
+  "Book Title" : "Sensational Life!",
+  "Author" : "Paula White",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 606,
+  "Book Title" : "Separating",
+  "Author" : "Susa Bowden",
+  "Gene" : "Friction"
+},
+{
+  "No." : 607,
+  "Book Title" : "SEPARATING",
+  "Author" : "SUSAN BOWDEN",
+  "Gene" : null
+},
+{
+  "No." : 608,
+  "Book Title" : "Seppent's Tooth",
+  "Author" : "FAYE KELLERMAN",
+  "Gene" : "Romance"
+},
+{
+  "No." : 609,
+  "Book Title" : "SHIPPING",
+  "Author" : "ROBERT",
+  "Gene" : null
+},
+{
+  "No." : 610,
+  "Book Title" : "Silent Confessions",
+  "Author" : "Julie Kenner",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 611,
+  "Book Title" : "Silent on the Prairie",
+  "Author" : "Janette Oke",
+  "Gene" : "Christian Fiction"
+},
+{
+  "No." : 612,
+  "Book Title" : "SILVER ON THE TREE",
+  "Author" : null,
+  "Gene" : "non-friction"
+},
+{
+  "No." : 613,
+  "Book Title" : "Silver on the Tree",
+  "Author" : "Susan on Cooper",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 614,
+  "Book Title" : "SING YOU HOME",
+  "Author" : "JODI PICOULT",
+  "Gene" : "Contemporary Fiction"
+},
+{
+  "No." : 615,
+  "Book Title" : "Single: The Jesus Model",
+  "Author" : "Heather Wraight",
+  "Gene" : "Christian Living / Relationships"
+},
+{
+  "No." : 616,
+  "Book Title" : "Smithsonian Science Activities",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 617,
+  "Book Title" : "Social Sciences Grade 8 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Social Sciences"
+},
+{
+  "No." : 618,
+  "Book Title" : "Social Sciences Grade 9 Learner’s Book",
+  "Author" : null,
+  "Gene" : "Social Sciences"
+},
+{
+  "No." : 619,
+  "Book Title" : "SODDEN'S HEART 1",
+  "Author" : "Gary Paulsen",
+  "Gene" : "friction"
+},
+{
+  "No." : 620,
+  "Book Title" : "SODDEN'S HEART 2",
+  "Author" : "Gary Paulsen",
+  "Gene" : "friction"
+},
+{
+  "No." : 621,
+  "Book Title" : "SODDEN'S HEART 3",
+  "Author" : "Gary Paulsen",
+  "Gene" : "friction"
+},
+{
+  "No." : 622,
+  "Book Title" : "SODDEN'S HEART 4",
+  "Author" : "Gary Paulsen",
+  "Gene" : "friction"
+},
+{
+  "No." : 623,
+  "Book Title" : "Soldiers's Heart",
+  "Author" : "Gary Paulsen",
+  "Gene" : "Young Adult / Historical Fiction"
+},
+{
+  "No." : 624,
+  "Book Title" : "SOMETHING FOR JOEY 1",
+  "Author" : "RICHARD E. PECK",
+  "Gene" : "friction"
+},
+{
+  "No." : 625,
+  "Book Title" : "SOMETHING FOR JOEY 2",
+  "Author" : "RICHARD E. PECK",
+  "Gene" : "friction"
+},
+{
+  "No." : 626,
+  "Book Title" : "SOMETHING FOR JOEY 3",
+  "Author" : "RICHARD E. PECK",
+  "Gene" : "friction"
+},
+{
+  "No." : 627,
+  "Book Title" : "somewhere over the",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 628,
+  "Book Title" : "Song of Trees",
+  "Author" : "Mildred D Taylor",
+  "Gene" : "Kids"
+},
+{
+  "No." : 629,
+  "Book Title" : "Sonny's House of Spies",
+  "Author" : "George Ella Lyon",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 630,
+  "Book Title" : "Sophie Pitt-Turnbull Discovers America",
+  "Author" : "Dyan Sheldon",
+  "Gene" : "non friction"
+},
+{
+  "No." : 631,
+  "Book Title" : "Sounder with related readings 1",
+  "Author" : "William H. Armstrong",
+  "Gene" : "Motivation"
+},
+{
+  "No." : 632,
+  "Book Title" : "Sounder with related readings 2",
+  "Author" : "William H. Armstrong",
+  "Gene" : "Motivation"
+},
+{
+  "No." : 633,
+  "Book Title" : "South Africa Joke Book",
+  "Author" : null,
+  "Gene" : "Humor"
+},
+{
+  "No." : 634,
+  "Book Title" : "South African Journal of Psychology",
+  "Author" : "Psychological Society of South Africa",
+  "Gene" : "Academic / Psychology"
+},
+{
+  "No." : 635,
+  "Book Title" : "South African Public Relations",
+  "Author" : "J.C. Skinner & L.M. Von Essen",
+  "Gene" : "Communication / Public Relations"
+},
+{
+  "No." : 636,
+  "Book Title" : "SPACE CASE",
+  "Author" : "Gibbs",
+  "Gene" : "Friction"
+},
+{
+  "No." : 637,
+  "Book Title" : "SPACE CASE",
+  "Author" : "GIBBS",
+  "Gene" : null
+},
+{
+  "No." : 638,
+  "Book Title" : "Spiderwick chronicles",
+  "Author" : "Diterlizz and black",
+  "Gene" : "Friction"
+},
+{
+  "No." : 639,
+  "Book Title" : "Splash",
+  "Author" : "Cadie Buckhodt",
+  "Gene" : "kids"
+},
+{
+  "No." : 640,
+  "Book Title" : "Splitzaroni",
+  "Author" : "K I White",
+  "Gene" : "Teens"
+},
+{
+  "No." : 641,
+  "Book Title" : "SPLITZARONI",
+  "Author" : "K.I WHITE",
+  "Gene" : null
+},
+{
+  "No." : 642,
+  "Book Title" : "Spring, Clown and Love",
+  "Author" : "Wollin",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 643,
+  "Book Title" : "SPUTZAROMI",
+  "Author" : "SALADDIX",
+  "Gene" : "kids"
+},
+{
+  "No." : 644,
+  "Book Title" : "St Teresa of Avila: Collected Works",
+  "Author" : "Teresa of Avila",
+  "Gene" : "Christian Mysticism"
+},
+{
+  "No." : 645,
+  "Book Title" : "Star TraThe First Adventure",
+  "Author" : "Vonda N McIntyre",
+  "Gene" : "Scifi"
+},
+{
+  "No." : 646,
+  "Book Title" : "Statistical Methods & Financial Calculations",
+  "Author" : "L.S. Simpson, A. Prozesky, M. Elsness",
+  "Gene" : "Statistics"
+},
+{
+  "No." : 647,
+  "Book Title" : "Statistical Methods and Financial Calculations",
+  "Author" : "Unknown",
+  "Gene" : "Statistics / Finance"
+},
+{
+  "No." : 648,
+  "Book Title" : "Steel",
+  "Author" : "Vaughn",
+  "Gene" : "Friction"
+},
+{
+  "No." : 649,
+  "Book Title" : "Steel",
+  "Author" : "VAUGHN",
+  "Gene" : null
+},
+{
+  "No." : 650,
+  "Book Title" : "Still More Smithsonian Science Activities",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 651,
+  "Book Title" : "Sting",
+  "Author" : "Jude Watson",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 652,
+  "Book Title" : "Sting",
+  "Author" : "WATSON SHINGO",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 653,
+  "Book Title" : "Sting",
+  "Author" : "WARTSON",
+  "Gene" : null
+},
+{
+  "No." : 654,
+  "Book Title" : "Stone soup and other stories",
+  "Author" : "New way",
+  "Gene" : "kids"
+},
+{
+  "No." : 655,
+  "Book Title" : "Stone soup and other stories",
+  "Author" : "New way",
+  "Gene" : "kids"
+},
+{
+  "No." : 656,
+  "Book Title" : "Stories for Young Ears",
+  "Author" : "Ewald van Rensburg",
+  "Gene" : "Children's Stories"
+},
+{
+  "No." : 657,
+  "Book Title" : "Stories from east",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 658,
+  "Book Title" : "Stories of Africa",
+  "Author" : null,
+  "Gene" : "Children's Literature"
+},
+{
+  "No." : 659,
+  "Book Title" : "Stormy Surrender",
+  "Author" : "Robin Lee Hatcher",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 660,
+  "Book Title" : "Story Surrender",
+  "Author" : "Ronin Lee Hutcher",
+  "Gene" : "Romance"
+},
+{
+  "No." : 661,
+  "Book Title" : "Storyteller",
+  "Author" : "Joanna Korba",
+  "Gene" : "kids"
+},
+{
+  "No." : 662,
+  "Book Title" : "Straight on till morning",
+  "Author" : "Liz Braswell",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 663,
+  "Book Title" : "STRIKE Mirror",
+  "Author" : null,
+  "Gene" : "non friction"
+},
+{
+  "No." : 664,
+  "Book Title" : "Strong Man of Africa",
+  "Author" : null,
+  "Gene" : "Biography"
+},
+{
+  "No." : 665,
+  "Book Title" : "Stubby and the puppy pack to the rescue",
+  "Author" : "Nikki Wallack",
+  "Gene" : "non friction"
+},
+{
+  "No." : 666,
+  "Book Title" : "Study Master CAPS EMS Grade 9",
+  "Author" : null,
+  "Gene" : "EMS"
+},
+{
+  "No." : 667,
+  "Book Title" : "Summerland",
+  "Author" : "Michael Charon",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 668,
+  "Book Title" : "Suparfudas",
+  "Author" : "Judy Blume",
+  "Gene" : "friction"
+},
+{
+  "No." : 669,
+  "Book Title" : "Sweef",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 670,
+  "Book Title" : "Tales of a fouth grad",
+  "Author" : "Judy Blume",
+  "Gene" : "friction"
+},
+{
+  "No." : 671,
+  "Book Title" : "TALES OF THE 4TH..",
+  "Author" : "JODY B",
+  "Gene" : null
+},
+{
+  "No." : 672,
+  "Book Title" : "Tall tont",
+  "Author" : "Lucy Floyed",
+  "Gene" : "Kids"
+},
+{
+  "No." : 673,
+  "Book Title" : "Tarnished Gold",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 674,
+  "Book Title" : "Tell me about it",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "Animals"
+},
+{
+  "No." : 675,
+  "Book Title" : "tell me about it 2",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 676,
+  "Book Title" : "Tentacles",
+  "Author" : "Roland Smith",
+  "Gene" : "Teens"
+},
+{
+  "No." : 677,
+  "Book Title" : "Texas Literature Grade 7 (Pearson)",
+  "Author" : null,
+  "Gene" : "Literature"
+},
+{
+  "No." : 678,
+  "Book Title" : "THANK THE VISIT: CUBA",
+  "Author" : "JOHN GRIP",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 679,
+  "Book Title" : "The 13th Floor a Ghost Story",
+  "Author" : "Peter Sis",
+  "Gene" : "Teens"
+},
+{
+  "No." : 680,
+  "Book Title" : "THE ABSOLUTELY TRUE DIARY OF A PART-TIME INDIAN",
+  "Author" : "SHERMAN ALEXIE",
+  "Gene" : "Friction"
+},
+{
+  "No." : 681,
+  "Book Title" : "The Angels Weep",
+  "Author" : "Wilbur Smith",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 682,
+  "Book Title" : "The Angels Weep",
+  "Author" : "Wilbur Smith",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 683,
+  "Book Title" : "The Angels Weep",
+  "Author" : "WILBUR SMITH",
+  "Gene" : null
+},
+{
+  "No." : 684,
+  "Book Title" : "The Angels Weep",
+  "Author" : "Wilbur Smith",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 685,
+  "Book Title" : "The Approval Fix",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 686,
+  "Book Title" : "The Aprapaha",
+  "Author" : "Bail",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 687,
+  "Book Title" : "The Artist's Way",
+  "Author" : "Julia Cameron",
+  "Gene" : "Creativity / Self-Help"
+},
+{
+  "No." : 688,
+  "Book Title" : "The baby swap miracles",
+  "Author" : "Caroline Anderson",
+  "Gene" : "Romance"
+},
+{
+  "No." : 689,
+  "Book Title" : "The Bachelor The Baby and The Beauuty",
+  "Author" : "Victoria Pade",
+  "Gene" : "Non Fiction"
+},
+{
+  "No." : 690,
+  "Book Title" : "The Bible (New Testament)",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Scripture"
+},
+{
+  "No." : 691,
+  "Book Title" : "THE BIG GAME",
+  "Author" : "LYNCH",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 692,
+  "Book Title" : "THE BIG GAME OF EVERYTHING",
+  "Author" : "Lynch",
+  "Gene" : "Friction"
+},
+{
+  "No." : 693,
+  "Book Title" : "THE BLESSING",
+  "Author" : "Jude Deveraux",
+  "Gene" : "Kids"
+},
+{
+  "No." : 694,
+  "Book Title" : "The Blessing",
+  "Author" : "JUDE DEVERAUX",
+  "Gene" : "Romance"
+},
+{
+  "No." : 695,
+  "Book Title" : "The Blessing",
+  "Author" : "Jude Deveraux",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 696,
+  "Book Title" : "The Book of Dust",
+  "Author" : "Philip Pullman",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 697,
+  "Book Title" : "The Book of Dust",
+  "Author" : "Philip Pullman",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 698,
+  "Book Title" : "The Bourne Legacy",
+  "Author" : "Robert Ludlum",
+  "Gene" : "Fiction / Thriller"
+},
+{
+  "No." : 699,
+  "Book Title" : "THE BOXES",
+  "Author" : "SLEATER",
+  "Gene" : "non friction"
+},
+{
+  "No." : 700,
+  "Book Title" : "THE BOYFRIEND PROJECT",
+  "Author" : "HONDURAS",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 701,
+  "Book Title" : "THE BURNA LEGACY",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 702,
+  "Book Title" : "THE BUTTERFLY",
+  "Author" : "Hogan",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 703,
+  "Book Title" : "The Calender",
+  "Author" : "Cynthia Voight",
+  "Gene" : "friction"
+},
+{
+  "No." : 704,
+  "Book Title" : "THE CALENDER PAPERS",
+  "Author" : "CYNTHIA VOIGHT",
+  "Gene" : null
+},
+{
+  "No." : 705,
+  "Book Title" : "The Callender Paper",
+  "Author" : "Cynthia Voigt",
+  "Gene" : "non friction"
+},
+{
+  "No." : 706,
+  "Book Title" : "The Cambridge Handbook of Multimedia Learning",
+  "Author" : "Richard E. Mayer (Ed.)",
+  "Gene" : "Education / Psychology"
+},
+{
+  "No." : 707,
+  "Book Title" : "The camping trip",
+  "Author" : "Siobhan Mor",
+  "Gene" : "kids"
+},
+{
+  "No." : 708,
+  "Book Title" : "The carribbean",
+  "Author" : null,
+  "Gene" : "historical"
+},
+{
+  "No." : 709,
+  "Book Title" : "The case of the barking dog",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 710,
+  "Book Title" : "The case of the Karate chop",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 711,
+  "Book Title" : "THE CASE Othe pen gone missing",
+  "Author" : "Rene Sandana JR",
+  "Gene" : "non friction"
+},
+{
+  "No." : 712,
+  "Book Title" : "The Castle of Llyr",
+  "Author" : "Lloyd Alexander",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 713,
+  "Book Title" : "The Church in the Power of the Spirit",
+  "Author" : "Various Authors",
+  "Gene" : "Theology"
+},
+{
+  "No." : 714,
+  "Book Title" : "The clue club",
+  "Author" : "caroline Majors",
+  "Gene" : "kids"
+},
+{
+  "No." : 715,
+  "Book Title" : "THE COLOR PARPLE",
+  "Author" : "ALICE WALKER",
+  "Gene" : "Romance"
+},
+{
+  "No." : 716,
+  "Book Title" : "The Confident Woman",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Women's Growth"
+},
+{
+  "No." : 717,
+  "Book Title" : "The Constitution",
+  "Author" : "Patricia Ryon Quiri",
+  "Gene" : "kids"
+},
+{
+  "No." : 718,
+  "Book Title" : "The Cretan",
+  "Author" : "Mary Renault",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 719,
+  "Book Title" : "The Crippled God",
+  "Author" : "STEVEN ERIKSON",
+  "Gene" : "Epic Fantasy"
+},
+{
+  "No." : 720,
+  "Book Title" : "The Crippled God",
+  "Author" : "STEVEN ERIKSON",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 721,
+  "Book Title" : "The Crucible",
+  "Author" : "Arthur Miller",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 722,
+  "Book Title" : "The Crucible",
+  "Author" : "Arther Miller",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 723,
+  "Book Title" : "The Crucible",
+  "Author" : "Arthur Miller",
+  "Gene" : "Drama / Classic"
+},
+{
+  "No." : 724,
+  "Book Title" : "The Damaron Mark - The Heiress",
+  "Author" : "Fayrene Preston",
+  "Gene" : "Romance"
+},
+{
+  "No." : 725,
+  "Book Title" : "The Dark is Rising Sequence",
+  "Author" : "Susan Cooper",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 726,
+  "Book Title" : "THE DARKNESS AND THE COMFORT",
+  "Author" : null,
+  "Gene" : "friction"
+},
+{
+  "No." : 727,
+  "Book Title" : "The days of winter",
+  "Author" : "Cynthia Freeman",
+  "Gene" : "Friction"
+},
+{
+  "No." : 728,
+  "Book Title" : "THE DEMONATA",
+  "Author" : "DARREN SHAN",
+  "Gene" : "Friction"
+},
+{
+  "No." : 729,
+  "Book Title" : "The Demonata",
+  "Author" : "SHAN",
+  "Gene" : "Horror"
+},
+{
+  "No." : 730,
+  "Book Title" : "THE DIVA WRAPS UP",
+  "Author" : "KRISTA DAVIS",
+  "Gene" : "Romance / General Fiction"
+},
+{
+  "No." : 731,
+  "Book Title" : "The Dream House",
+  "Author" : "Craig Higginson",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 732,
+  "Book Title" : "The Dreaming",
+  "Author" : "Barbara Wood",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 733,
+  "Book Title" : "The Dreaming",
+  "Author" : "Barbara Wood",
+  "Gene" : "historical"
+},
+{
+  "No." : 734,
+  "Book Title" : "The Dreaming",
+  "Author" : "Barbara Wood",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 735,
+  "Book Title" : "The End of the Rainbow",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 736,
+  "Book Title" : "The Enemy Above",
+  "Author" : "Stephen Coonts",
+  "Gene" : "Thriller"
+},
+{
+  "No." : 737,
+  "Book Title" : "The Enemy Above",
+  "Author" : "Michael P Spradlin",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 738,
+  "Book Title" : "The Eternal Enemy",
+  "Author" : "Christopher Pike",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 739,
+  "Book Title" : "THE EXTINCT SPECIES COLLECTION",
+  "Author" : "Coleman Gibbsons",
+  "Gene" : "historical"
+},
+{
+  "No." : 740,
+  "Book Title" : "the extreme snowboarding moves",
+  "Author" : "Freimuth",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 741,
+  "Book Title" : "The eyre affair",
+  "Author" : "Jasper Fforde",
+  "Gene" : "Friction"
+},
+{
+  "No." : 742,
+  "Book Title" : "The eyre affair",
+  "Author" : "JASPER FFORDE",
+  "Gene" : null
+},
+{
+  "No." : 743,
+  "Book Title" : "THE FAMILY",
+  "Author" : "ANITA BURGH",
+  "Gene" : "Family Saga / General Fiction"
+},
+{
+  "No." : 744,
+  "Book Title" : "THE FAMILY",
+  "Author" : "Anita Burgh",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 745,
+  "Book Title" : "THE FAMILY",
+  "Author" : "Kristan Davis",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 746,
+  "Book Title" : "The Family Feud",
+  "Author" : "Carol Finch",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 747,
+  "Book Title" : "The famous Gold Rush of 1898",
+  "Author" : "Micheal Cooper",
+  "Gene" : "History"
+},
+{
+  "No." : 748,
+  "Book Title" : "The Feast",
+  "Author" : "Jake Walker",
+  "Gene" : "kids"
+},
+{
+  "No." : 749,
+  "Book Title" : "The Fighting Ground",
+  "Author" : "Harper Trophy",
+  "Gene" : "non friction"
+},
+{
+  "No." : 750,
+  "Book Title" : "The first people in the world",
+  "Author" : "Ames",
+  "Gene" : "Historical"
+},
+{
+  "No." : 751,
+  "Book Title" : "The fisheman and his wife",
+  "Author" : "Grimm",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 752,
+  "Book Title" : "THE FRONT RUNNER",
+  "Author" : "PATRICIA NELL WARREN (Author unclear, attributed to Paul Kilduff on spine)",
+  "Gene" : "Literary Fiction / Romance"
+},
+{
+  "No." : 753,
+  "Book Title" : "THE FRONT RUNNER",
+  "Author" : "PATRICIA NELL WARREN",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 754,
+  "Book Title" : "The Frontrunner",
+  "Author" : "Paul Kilduff",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 755,
+  "Book Title" : "The game king",
+  "Author" : "Dorothy Dunnett",
+  "Gene" : "friction"
+},
+{
+  "No." : 756,
+  "Book Title" : "The Game of Kings",
+  "Author" : "Dorothy Dunnett",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 757,
+  "Book Title" : "THE GENE OF SUTTON",
+  "Author" : "Selden",
+  "Gene" : "Friction"
+},
+{
+  "No." : 758,
+  "Book Title" : "The Ghost the White House and Me",
+  "Author" : "Judith St George",
+  "Gene" : "Teens"
+},
+{
+  "No." : 759,
+  "Book Title" : "The Giraffe and the Pelly and Me",
+  "Author" : "Roald Dahl",
+  "Gene" : "Children's Fiction"
+},
+{
+  "No." : 760,
+  "Book Title" : "The Giver",
+  "Author" : "Lois Lowry",
+  "Gene" : "Friction"
+},
+{
+  "No." : 761,
+  "Book Title" : "The Giver",
+  "Author" : "LOIS LOWRY",
+  "Gene" : null
+},
+{
+  "No." : 762,
+  "Book Title" : "The Giver’s Ride",
+  "Author" : null,
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 763,
+  "Book Title" : "The Gladiators",
+  "Author" : "Arther Koestler",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 764,
+  "Book Title" : "The Gladiators",
+  "Author" : "Arthur Koestler",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 765,
+  "Book Title" : "The Golden Books Family Treasury of POETRY",
+  "Author" : "Untermeyer Anglund",
+  "Gene" : "Friction"
+},
+{
+  "No." : 766,
+  "Book Title" : "THE GOOD THE BAD AND THE GOOFY",
+  "Author" : "SMITH",
+  "Gene" : null
+},
+{
+  "No." : 767,
+  "Book Title" : "The Goodbye Summer",
+  "Author" : "Sarah Van Name",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 768,
+  "Book Title" : "THE GUARDIAN",
+  "Author" : "NICHOLAS SPARKS",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 769,
+  "Book Title" : "The Guardian",
+  "Author" : "Nicholas Sparks",
+  "Gene" : "Romance"
+},
+{
+  "No." : 770,
+  "Book Title" : "The Guardian",
+  "Author" : "Nicholas Sparks",
+  "Gene" : "Romance"
+},
+{
+  "No." : 771,
+  "Book Title" : "The Guardian",
+  "Author" : "Nicholas Sparks",
+  "Gene" : "Romance"
+},
+{
+  "No." : 772,
+  "Book Title" : "The Gymnastics Book",
+  "Author" : null,
+  "Gene" : "Sports"
+},
+{
+  "No." : 773,
+  "Book Title" : "The Happiest Baby Guide to Great Sleep",
+  "Author" : "Harvey Karp, M.D.",
+  "Gene" : "Parenting"
+},
+{
+  "No." : 774,
+  "Book Title" : "The Happiest Baby on the Block",
+  "Author" : "Harvey Karp, M.D.",
+  "Gene" : "Parenting"
+},
+{
+  "No." : 775,
+  "Book Title" : "THE HARDY BOYS",
+  "Author" : "FRANKLIN W. DIXON",
+  "Gene" : "friction"
+},
+{
+  "No." : 776,
+  "Book Title" : "The Herbal Drugstore",
+  "Author" : "White & Foster",
+  "Gene" : "Health"
+},
+{
+  "No." : 777,
+  "Book Title" : "The Higher Taste",
+  "Author" : "AC Bhaktivedanta",
+  "Gene" : "Cooking"
+},
+{
+  "No." : 778,
+  "Book Title" : "The History of the Church",
+  "Author" : "A. M. Renwick",
+  "Gene" : "Church History"
+},
+{
+  "No." : 779,
+  "Book Title" : "The home alone kitten",
+  "Author" : "Tiger",
+  "Gene" : "kids"
+},
+{
+  "No." : 780,
+  "Book Title" : "THE HOST",
+  "Author" : "STEPHENIE MEYER",
+  "Gene" : "Friction"
+},
+{
+  "No." : 781,
+  "Book Title" : "THE HOST",
+  "Author" : "STEPHENINE MEYER",
+  "Gene" : null
+},
+{
+  "No." : 782,
+  "Book Title" : "The House at Riverton",
+  "Author" : null,
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 783,
+  "Book Title" : "The House in Amalfi",
+  "Author" : "Elizabeth Adler",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 784,
+  "Book Title" : "The How to Manage Handbook",
+  "Author" : "Unknown",
+  "Gene" : "Management"
+},
+{
+  "No." : 785,
+  "Book Title" : "The Igloo",
+  "Author" : "Charlotte and David yue",
+  "Gene" : "History"
+},
+{
+  "No." : 786,
+  "Book Title" : "The Illustrated Guide to Pregnancy and Birth",
+  "Author" : "Tina Otte",
+  "Gene" : "Health"
+},
+{
+  "No." : 787,
+  "Book Title" : "The Impact of Effective Performance Appraisal System",
+  "Author" : "Various",
+  "Gene" : "Academic / Human Resources"
+},
+{
+  "No." : 788,
+  "Book Title" : "THE INDY MAN",
+  "Author" : "JANET DAILEY",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 789,
+  "Book Title" : "THE INDY MAN",
+  "Author" : "DAILY",
+  "Gene" : null
+},
+{
+  "No." : 790,
+  "Book Title" : "THE INDY MAN",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 791,
+  "Book Title" : "The innocent Victim",
+  "Author" : "Dickson",
+  "Gene" : "friction"
+},
+{
+  "No." : 792,
+  "Book Title" : "The Invaders Plan",
+  "Author" : "L Ron Hubbard",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 793,
+  "Book Title" : "The Iron Bread",
+  "Author" : "Pauline Smith",
+  "Gene" : "Literary Fiction"
+},
+{
+  "No." : 794,
+  "Book Title" : "The Iroquois",
+  "Author" : "Craig A.Doherty and Katherine M. Doherty",
+  "Gene" : "History"
+},
+{
+  "No." : 795,
+  "Book Title" : "The Journey",
+  "Author" : "Brandon Bays",
+  "Gene" : "Healing / Spiritual Growth"
+},
+{
+  "No." : 796,
+  "Book Title" : "The kind prince and other stories",
+  "Author" : "nelson",
+  "Gene" : "kids"
+},
+{
+  "No." : 797,
+  "Book Title" : "The king's race and other stories 1",
+  "Author" : "nelson",
+  "Gene" : "kids"
+},
+{
+  "No." : 798,
+  "Book Title" : "The king's race and other stories 2",
+  "Author" : "nelson",
+  "Gene" : "kids"
+},
+{
+  "No." : 799,
+  "Book Title" : "The last Heiress",
+  "Author" : "Bertrice Small",
+  "Gene" : "Friction"
+},
+{
+  "No." : 800,
+  "Book Title" : "The Last HERIRESS",
+  "Author" : "BERTRICE SMALL",
+  "Gene" : "General Fiction"
+},
+{
+  "No." : 801,
+  "Book Title" : "THE LEGEND OF SIGURD & GUDRUN",
+  "Author" : "J.R.R. TOLKIEN",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 802,
+  "Book Title" : "THE LEGEND OF SIGURD & GUDRÚN",
+  "Author" : "J.R.R. TOLKIEN",
+  "Gene" : "Poetry / Mythology"
+},
+{
+  "No." : 803,
+  "Book Title" : "The Legend of Sigurd and Gudrun",
+  "Author" : "J.R.R Tolkien",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 804,
+  "Book Title" : "The Legend of Sleepy Hollow",
+  "Author" : "Washington Irving",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 805,
+  "Book Title" : "The Lemonade War",
+  "Author" : "Jacqueline Davies",
+  "Gene" : "non friction"
+},
+{
+  "No." : 806,
+  "Book Title" : "The Lightning Thief",
+  "Author" : "Rick Riordan",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 807,
+  "Book Title" : "The Lightning Thief",
+  "Author" : "Rick Riordan",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 808,
+  "Book Title" : "The Lightning Thief",
+  "Author" : "Rick Riordan",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 809,
+  "Book Title" : "The Little Book of Spiritual Wisdom",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 810,
+  "Book Title" : "The long winter",
+  "Author" : "Wilder",
+  "Gene" : "Friction"
+},
+{
+  "No." : 811,
+  "Book Title" : "The long winter",
+  "Author" : "WILDER",
+  "Gene" : null
+},
+{
+  "No." : 812,
+  "Book Title" : "The Longest Day",
+  "Author" : "Cornelius Ryan",
+  "Gene" : "History / War"
+},
+{
+  "No." : 813,
+  "Book Title" : "THE MAGIC MAN",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 814,
+  "Book Title" : "The meanest Hound Around",
+  "Author" : null,
+  "Gene" : "non friction"
+},
+{
+  "No." : 815,
+  "Book Title" : "The meanest Hound Around",
+  "Author" : "Carol and Bill Wallace",
+  "Gene" : "Teens"
+},
+{
+  "No." : 816,
+  "Book Title" : "The mediterranean Prince Captive Virgin",
+  "Author" : "Robyn Donald",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 817,
+  "Book Title" : "The Midnight Fox",
+  "Author" : "Betsy Byars",
+  "Gene" : "non friction"
+},
+{
+  "No." : 818,
+  "Book Title" : "The Mini Treasure Chest of Great Fairy Tales III",
+  "Author" : "Tormont",
+  "Gene" : "Kids"
+},
+{
+  "No." : 819,
+  "Book Title" : "The mistery of the strange Bundle",
+  "Author" : "Emid Blyton",
+  "Gene" : "Friction"
+},
+{
+  "No." : 820,
+  "Book Title" : "The Monk Who Sold His Ferrari",
+  "Author" : "Robin Sharma",
+  "Gene" : "Inspirational Fiction"
+},
+{
+  "No." : 821,
+  "Book Title" : "The Moon is Down",
+  "Author" : "John Steinbeck",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 822,
+  "Book Title" : "The Moon is down",
+  "Author" : "Steinbeck",
+  "Gene" : "Friction"
+},
+{
+  "No." : 823,
+  "Book Title" : "THE MOON IS DOWN",
+  "Author" : "JOHN STEINBECK",
+  "Gene" : "Friction"
+},
+{
+  "No." : 824,
+  "Book Title" : "THE MOON IS DOWN",
+  "Author" : "STEINBECK",
+  "Gene" : null
+},
+{
+  "No." : 825,
+  "Book Title" : "The Moyor of Castlebridge",
+  "Author" : "Thomas Hardy",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 826,
+  "Book Title" : "The mysterious Matter of I.M",
+  "Author" : "Stanley",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 827,
+  "Book Title" : "THE MYSTERIOUS WATTER OF IM",
+  "Author" : "STANLEY",
+  "Gene" : null
+},
+{
+  "No." : 828,
+  "Book Title" : "THE MYSTERY OF THE STRANGE BUNDLE",
+  "Author" : "BLYTON",
+  "Gene" : null
+},
+{
+  "No." : 829,
+  "Book Title" : "The neighborhood Event",
+  "Author" : "Kristi T. Butler",
+  "Gene" : "kids"
+},
+{
+  "No." : 830,
+  "Book Title" : "The night light",
+  "Author" : "Winston White",
+  "Gene" : "kids"
+},
+{
+  "No." : 831,
+  "Book Title" : "The night light",
+  "Author" : "Winston White",
+  "Gene" : "kids"
+},
+{
+  "No." : 832,
+  "Book Title" : "THE NO SO GOOD JOLLY",
+  "Author" : "SMITH",
+  "Gene" : null
+},
+{
+  "No." : 833,
+  "Book Title" : "The not so jolly roger",
+  "Author" : "Seleszka/Smith",
+  "Gene" : "friction"
+},
+{
+  "No." : 834,
+  "Book Title" : "THE ODD SQUAD",
+  "Author" : "Bully Baits",
+  "Gene" : "Friction"
+},
+{
+  "No." : 835,
+  "Book Title" : "The one in the middle is the green kangaroo",
+  "Author" : "Judy Blume",
+  "Gene" : "kids"
+},
+{
+  "No." : 836,
+  "Book Title" : "The Onyx",
+  "Author" : "Jaqualine Briskin",
+  "Gene" : "Romance"
+},
+{
+  "No." : 837,
+  "Book Title" : "The open door club",
+  "Author" : "Carlynn Trout",
+  "Gene" : "kids"
+},
+{
+  "No." : 838,
+  "Book Title" : "The Orphan Train Adventures",
+  "Author" : "Joan Lowery Nixon",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 839,
+  "Book Title" : "The Palmistry Bible",
+  "Author" : "Jane Struthers",
+  "Gene" : "Spiritual / Reference"
+},
+{
+  "No." : 840,
+  "Book Title" : "The Parade",
+  "Author" : "Christina Wilsdon",
+  "Gene" : "kids"
+},
+{
+  "No." : 841,
+  "Book Title" : "The park",
+  "Author" : "Wendy Benger",
+  "Gene" : "kids"
+},
+{
+  "No." : 842,
+  "Book Title" : "The perculiar Pumpkin thief",
+  "Author" : "G.Stilton",
+  "Gene" : "friction"
+},
+{
+  "No." : 843,
+  "Book Title" : "The perculiar Pumpkin thief",
+  "Author" : "G STRITTON",
+  "Gene" : null
+},
+{
+  "No." : 844,
+  "Book Title" : "The Pigman",
+  "Author" : "Paul Zindel",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 845,
+  "Book Title" : "The Pigman",
+  "Author" : "Paul Zindel",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 846,
+  "Book Title" : "The Pink Princess",
+  "Author" : "Lulu Frost",
+  "Gene" : "kids"
+},
+{
+  "No." : 847,
+  "Book Title" : "THE PIRATES OF TURTLE ROCK",
+  "Author" : "JENNINGS",
+  "Gene" : "Children's / Middle Grade Fiction"
+},
+{
+  "No." : 848,
+  "Book Title" : "THE PIRATES OF TURTLE ROCK",
+  "Author" : "JENNINGS",
+  "Gene" : "Kids"
+},
+{
+  "No." : 849,
+  "Book Title" : "The Power of a Praying Wife",
+  "Author" : "Stormie Omartian",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 850,
+  "Book Title" : "The Power of a Praying Woman",
+  "Author" : "Stormie Omartian",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 851,
+  "Book Title" : "The Power of Now",
+  "Author" : "Eckhart Tolle",
+  "Gene" : "Spirituality"
+},
+{
+  "No." : 852,
+  "Book Title" : "The Power of Praying (3-in-1 Collection)",
+  "Author" : "Stormie Omartian",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 853,
+  "Book Title" : "THE PRINCESSES OF BAMARRE",
+  "Author" : "LEVIN",
+  "Gene" : null
+},
+{
+  "No." : 854,
+  "Book Title" : "The Purpose Driven Life",
+  "Author" : "Rick Warren",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 855,
+  "Book Title" : "THE PUSHCART WAR",
+  "Author" : "JEAN MERRILL",
+  "Gene" : "Friction"
+},
+{
+  "No." : 856,
+  "Book Title" : "The Rabbit and the coyote 1",
+  "Author" : "Mayan Trickster",
+  "Gene" : "kids"
+},
+{
+  "No." : 857,
+  "Book Title" : "The Rabbit and the coyote 2",
+  "Author" : "Mayan Trickster",
+  "Gene" : "kids"
+},
+{
+  "No." : 858,
+  "Book Title" : "The Raider",
+  "Author" : "Jude Deveraux",
+  "Gene" : "Romance"
+},
+{
+  "No." : 859,
+  "Book Title" : "THE RANDOM HOUSE BOOK OF POETRY",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 860,
+  "Book Title" : "THE RANDOM HOUSE BOOK OF POETRY FOR CHILDREN",
+  "Author" : "JACK PRELUTSKY",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 861,
+  "Book Title" : "The raven and the rose",
+  "Author" : "Susan Miggs",
+  "Gene" : "Romance"
+},
+{
+  "No." : 862,
+  "Book Title" : "The reflection",
+  "Author" : "Elizabeth Lim",
+  "Gene" : "Friction"
+},
+{
+  "No." : 863,
+  "Book Title" : "THE RETURN JOURNEY",
+  "Author" : "MAEVE BINCHY",
+  "Gene" : null
+},
+{
+  "No." : 864,
+  "Book Title" : "The return journey and other stories",
+  "Author" : "Maeve Binchy",
+  "Gene" : "Friction"
+},
+{
+  "No." : 865,
+  "Book Title" : "The Rice Mother",
+  "Author" : "Rani Manicka",
+  "Gene" : "Literary Fiction"
+},
+{
+  "No." : 866,
+  "Book Title" : "The right pet",
+  "Author" : "Rob Arego",
+  "Gene" : "kids"
+},
+{
+  "No." : 867,
+  "Book Title" : "The Robot",
+  "Author" : "Lisa Nocks",
+  "Gene" : "Technology"
+},
+{
+  "No." : 868,
+  "Book Title" : "The saddle club",
+  "Author" : "Stable Groom",
+  "Gene" : "friction"
+},
+{
+  "No." : 869,
+  "Book Title" : "The saddle club",
+  "Author" : "STABLE GROOM",
+  "Gene" : null
+},
+{
+  "No." : 870,
+  "Book Title" : "THE SECRET COMMONWEALTH",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 871,
+  "Book Title" : "THE SECRET COMMONWEALTH",
+  "Author" : "PHILIP PULLMAN",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 872,
+  "Book Title" : "The Shack",
+  "Author" : "William P. Young",
+  "Gene" : "Christian Fiction"
+},
+{
+  "No." : 873,
+  "Book Title" : "The Shadow Throne",
+  "Author" : "Jennifer A. Nielsen",
+  "Gene" : "Fantasy"
+},
+{
+  "No." : 874,
+  "Book Title" : "The Shadow Throne",
+  "Author" : "Jennifer A Nielsen",
+  "Gene" : null
+},
+{
+  "No." : 875,
+  "Book Title" : "THE SHEIKH CROWNS THE VIRGIN",
+  "Author" : "LYNNE GRAHAM",
+  "Gene" : null
+},
+{
+  "No." : 876,
+  "Book Title" : "The Short Second Life of Bree Tanner",
+  "Author" : "STEPHENIE MEYER",
+  "Gene" : "Fantasy / Young Adult"
+},
+{
+  "No." : 877,
+  "Book Title" : "The Short Second Life of Bree Tanner",
+  "Author" : "STEPHENIE MEYER",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 878,
+  "Book Title" : "The slave dancer 1",
+  "Author" : "Paula Fox",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 879,
+  "Book Title" : "The slave dancer 2",
+  "Author" : "Paula Fox",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 880,
+  "Book Title" : "THE STORY OF BOBBY RAYS MORGAN",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 881,
+  "Book Title" : "The Strange Case of Dr Jeky II and Mr Hyde",
+  "Author" : "Robert Louis Stevenson",
+  "Gene" : "non friction"
+},
+{
+  "No." : 882,
+  "Book Title" : "The Strange Case of Dr Jeky II and Mr Hyde",
+  "Author" : "Robert Louis Stevenson",
+  "Gene" : "non friction"
+},
+{
+  "No." : 883,
+  "Book Title" : "The Strange Case of Dr Jeky II and Mr Hyde",
+  "Author" : "Robert Louis Stevenson",
+  "Gene" : "non friction"
+},
+{
+  "No." : 884,
+  "Book Title" : "The Strange Case of Dr Jeky II and Mr Hyde",
+  "Author" : "Robert Louis Stevenson",
+  "Gene" : "non friction"
+},
+{
+  "No." : 885,
+  "Book Title" : "The strange case of dr jerkyll and mr hyde 1",
+  "Author" : "Robin Lous Ste",
+  "Gene" : "friction"
+},
+{
+  "No." : 886,
+  "Book Title" : "The strange case of dr jerkyll and mr hyde 2",
+  "Author" : "Robin Lous Ste",
+  "Gene" : "friction"
+},
+{
+  "No." : 887,
+  "Book Title" : "The strange case of dr jerkyll and mr hyde 3",
+  "Author" : "Robin Lous Ste",
+  "Gene" : "friction"
+},
+{
+  "No." : 888,
+  "Book Title" : "The strange case of dr jerkyll and mr hyde 4",
+  "Author" : "Robin Lous Ste",
+  "Gene" : "friction"
+},
+{
+  "No." : 889,
+  "Book Title" : "The Summer of The Swans",
+  "Author" : "Betsy Byars",
+  "Gene" : "non friction"
+},
+{
+  "No." : 890,
+  "Book Title" : "The Summer of The Swans",
+  "Author" : "Betsy Byars",
+  "Gene" : "non friction"
+},
+{
+  "No." : 891,
+  "Book Title" : "The summer of the sways 1",
+  "Author" : "Berry Byan",
+  "Gene" : "Romantic"
+},
+{
+  "No." : 892,
+  "Book Title" : "The summer of the sways 2",
+  "Author" : "Berry Byan",
+  "Gene" : "Romantic"
+},
+{
+  "No." : 893,
+  "Book Title" : "The Supreme court",
+  "Author" : "David f.Forte",
+  "Gene" : "Memoirs"
+},
+{
+  "No." : 894,
+  "Book Title" : "The Tale of Despereanx",
+  "Author" : "Kate Dicamillo",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 895,
+  "Book Title" : "The Tale of Despereanx",
+  "Author" : "Kate DiCamillo",
+  "Gene" : "Children"
+},
+{
+  "No." : 896,
+  "Book Title" : "The Tale of Despereaux",
+  "Author" : "Kate DiCamillo",
+  "Gene" : "Children's Fiction"
+},
+{
+  "No." : 897,
+  "Book Title" : "THE THEORY OF FLIGHT",
+  "Author" : "SIPO",
+  "Gene" : "Friction"
+},
+{
+  "No." : 898,
+  "Book Title" : "The touch od gold",
+  "Author" : "Macmillen Educaion",
+  "Gene" : "kids"
+},
+{
+  "No." : 899,
+  "Book Title" : "The Travellers",
+  "Author" : "Chris Pavone",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 900,
+  "Book Title" : "The True Confessions of Charlotte Doyle with Related Readings 1",
+  "Author" : "Glencoe McGraw-Hill",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 901,
+  "Book Title" : "The True Confessions of Charlotte Doyle with Related Readings 2",
+  "Author" : "Glencoe McGraw-Hill",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 902,
+  "Book Title" : "The Unoriginal Sinner and the Ice Cream God",
+  "Author" : "John R Power",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 903,
+  "Book Title" : "The Vietnam War 12 Things to know",
+  "Author" : "Jill Sherman",
+  "Gene" : "War"
+},
+{
+  "No." : 904,
+  "Book Title" : "The Viking",
+  "Author" : "Michael Dahl",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 905,
+  "Book Title" : "The Viking",
+  "Author" : "Michael Dahl",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 906,
+  "Book Title" : "The Watson Go to Birmingham - 1963",
+  "Author" : "Christopher Paul Curtis",
+  "Gene" : "Non Fiction"
+},
+{
+  "No." : 907,
+  "Book Title" : "THE WATSON GO TO BIRNINGHAM",
+  "Author" : "CHRISTOPHER PAUL CURTIS",
+  "Gene" : null
+},
+{
+  "No." : 908,
+  "Book Title" : "The Watsons go to Birmingham",
+  "Author" : "Christopher Paul Curtis",
+  "Gene" : "Friction"
+},
+{
+  "No." : 909,
+  "Book Title" : "The Way?",
+  "Author" : "Various",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 910,
+  "Book Title" : "The Wednesday Wizard",
+  "Author" : "Sherryl Jordan",
+  "Gene" : "friction"
+},
+{
+  "No." : 911,
+  "Book Title" : "The Welcome Home Garden Club",
+  "Author" : "Lori Wilde",
+  "Gene" : "Non-Fiction"
+},
+{
+  "No." : 912,
+  "Book Title" : "The Welcome Home Garden Club",
+  "Author" : "Lori Wilde",
+  "Gene" : "Romance"
+},
+{
+  "No." : 913,
+  "Book Title" : "The Westing Game",
+  "Author" : "Ellen Raskin",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 914,
+  "Book Title" : "THE WHITE FOX CHRONICLES",
+  "Author" : "GARY D. E.",
+  "Gene" : "Friction"
+},
+{
+  "No." : 915,
+  "Book Title" : "THE White Giraffe",
+  "Author" : "Lauren St John",
+  "Gene" : "Teens"
+},
+{
+  "No." : 916,
+  "Book Title" : "The Wisdom of Solomin",
+  "Author" : "Wanda E Brunstretter",
+  "Gene" : "Kids"
+},
+{
+  "No." : 917,
+  "Book Title" : "The Wolf",
+  "Author" : "Hogan",
+  "Gene" : "Animals"
+},
+{
+  "No." : 918,
+  "Book Title" : "The Young Track and Field Athlete",
+  "Author" : null,
+  "Gene" : "Sports"
+},
+{
+  "No." : 919,
+  "Book Title" : "There's a Girl in my Hammerlock (1)",
+  "Author" : "Jerry Spinelli",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 920,
+  "Book Title" : "There's a Girl in my Hammerlock (2)",
+  "Author" : "Jerry Spinelli",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 921,
+  "Book Title" : "There's a Girl in my Hammerlock (3)",
+  "Author" : "Jerry Spinelli",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 922,
+  "Book Title" : "These Happy Golden Years",
+  "Author" : "Laura Ingalls Wilder",
+  "Gene" : "Historical Fiction"
+},
+{
+  "No." : 923,
+  "Book Title" : "These Hapy Golden Years",
+  "Author" : "Laura Ingalls Wider",
+  "Gene" : "Teens"
+},
+{
+  "No." : 924,
+  "Book Title" : "Think and Grow Rich",
+  "Author" : "Napoleon Hill",
+  "Gene" : "Personal Development"
+},
+{
+  "No." : 925,
+  "Book Title" : "Thirst",
+  "Author" : "Pike",
+  "Gene" : "Romance"
+},
+{
+  "No." : 926,
+  "Book Title" : "THIRSTY",
+  "Author" : "AMBIBISON",
+  "Gene" : "Friction"
+},
+{
+  "No." : 927,
+  "Book Title" : "Thist",
+  "Author" : "Pike",
+  "Gene" : "Friction"
+},
+{
+  "No." : 928,
+  "Book Title" : "Thistle and Twigg",
+  "Author" : "Mary Saums",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 929,
+  "Book Title" : "Time Enough for Love",
+  "Author" : null,
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 930,
+  "Book Title" : "Time Enough for Love",
+  "Author" : "Robert A.Heinlein",
+  "Gene" : "Romance"
+},
+{
+  "No." : 931,
+  "Book Title" : "Time Enough for Love",
+  "Author" : "Robert A. Heinlein",
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 932,
+  "Book Title" : "To Kill A Mockingbird (1)",
+  "Author" : "Harper Lee",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 933,
+  "Book Title" : "To Kill A Mockingbird (2)",
+  "Author" : "Harper Lee",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 934,
+  "Book Title" : "To Kill A Mockingbird (3)",
+  "Author" : "Harper Lee",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 935,
+  "Book Title" : "To kill a Morckingbird 1",
+  "Author" : "Horton Foote",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 936,
+  "Book Title" : "To kill a Morckingbird 2",
+  "Author" : "Horton Foote",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 937,
+  "Book Title" : "To kill a Morckingbird 3",
+  "Author" : "Horton Foote",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 938,
+  "Book Title" : "Toad Rage",
+  "Author" : "Morris Gleitzman",
+  "Gene" : "Kids"
+},
+{
+  "No." : 939,
+  "Book Title" : "Tonight by Sea",
+  "Author" : "Frances Temple",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 940,
+  "Book Title" : "Totally Confidential",
+  "Author" : "Waner",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 941,
+  "Book Title" : "TOTALLY CONFIDENTION",
+  "Author" : "WARNER",
+  "Gene" : null
+},
+{
+  "No." : 942,
+  "Book Title" : "Totally Disgusting",
+  "Author" : "Bill Wallace",
+  "Gene" : "Kids"
+},
+{
+  "No." : 943,
+  "Book Title" : "TOTALLY DISGUSTING!",
+  "Author" : "BILL WALLACE",
+  "Gene" : "non friction"
+},
+{
+  "No." : 944,
+  "Book Title" : "Travellers' Guide",
+  "Author" : "Various",
+  "Gene" : "Travel"
+},
+{
+  "No." : 945,
+  "Book Title" : "TREASURE ISLAND",
+  "Author" : "ROBERT LOUIS STEVENSON",
+  "Gene" : "Friction"
+},
+{
+  "No." : 946,
+  "Book Title" : "TRIAL BY FIRE",
+  "Author" : "(Various Authors)",
+  "Gene" : "Science Fiction"
+},
+{
+  "No." : 947,
+  "Book Title" : "Trial by fire",
+  "Author" : "Farshtey",
+  "Gene" : "friction"
+},
+{
+  "No." : 948,
+  "Book Title" : "Trouble",
+  "Author" : "Linda Howard",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 949,
+  "Book Title" : "Trouble",
+  "Author" : "LINDA HOWARD",
+  "Gene" : null
+},
+{
+  "No." : 950,
+  "Book Title" : "True Grit",
+  "Author" : "Charles Portis",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 951,
+  "Book Title" : "True Grit",
+  "Author" : "Charles Portis",
+  "Gene" : "Western / Classic"
+},
+{
+  "No." : 952,
+  "Book Title" : "TUCK EVERLASTING",
+  "Author" : "NATALIE BABBIT",
+  "Gene" : "Children's / Young Adult Fantasy"
+},
+{
+  "No." : 953,
+  "Book Title" : "TUCK EVERLASTING",
+  "Author" : "Natalie Babbitt",
+  "Gene" : "Fiction"
+},
+{
+  "No." : 954,
+  "Book Title" : "Tuck Everlasting",
+  "Author" : "Natalie Babbitt",
+  "Gene" : "Teens"
+},
+{
+  "No." : 955,
+  "Book Title" : "Tucket's Ride",
+  "Author" : "Gary Paulsen",
+  "Gene" : "Teens"
+},
+{
+  "No." : 956,
+  "Book Title" : "Tweede Kans",
+  "Author" : null,
+  "Gene" : "Afrikaans"
+},
+{
+  "No." : 957,
+  "Book Title" : "Two by two",
+  "Author" : "NICHOLAS SPARKS",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 958,
+  "Book Title" : "Two Minute Drill_Comeback Kids",
+  "Author" : "Mike Lupica",
+  "Gene" : "Sports"
+},
+{
+  "No." : 959,
+  "Book Title" : "TWO OF TWO",
+  "Author" : "NICHOLAS SPARKS",
+  "Gene" : null
+},
+{
+  "No." : 960,
+  "Book Title" : "TX K Science Grade 7",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 961,
+  "Book Title" : "TX K Science Grade 8",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 962,
+  "Book Title" : "Undercover Cook",
+  "Author" : null,
+  "Gene" : "Romance"
+},
+{
+  "No." : 963,
+  "Book Title" : "Undercover Cook",
+  "Author" : "Jeannie Watt",
+  "Gene" : "Romance"
+},
+{
+  "No." : 964,
+  "Book Title" : "Undercover Cook",
+  "Author" : "DOROTHY",
+  "Gene" : null
+},
+{
+  "No." : 965,
+  "Book Title" : "Undercover Cook",
+  "Author" : "Jean Watt",
+  "Gene" : "Romance"
+},
+{
+  "No." : 966,
+  "Book Title" : "Unhallowed Ground",
+  "Author" : "Heather Graham",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 967,
+  "Book Title" : "UNORIGINAL SINNER & THE ICE CREAM GOD",
+  "Author" : "FOMERS",
+  "Gene" : "Friction"
+},
+{
+  "No." : 968,
+  "Book Title" : "Unshakeable Trust",
+  "Author" : "Joyce Meyer",
+  "Gene" : "Christian Living"
+},
+{
+  "No." : 969,
+  "Book Title" : "Up Island",
+  "Author" : "Anne Rivers Siddons",
+  "Gene" : "Romance"
+},
+{
+  "No." : 970,
+  "Book Title" : "Vegetable Soup",
+  "Author" : "Laura Black",
+  "Gene" : "kids"
+},
+{
+  "No." : 971,
+  "Book Title" : "Velvet Angel",
+  "Author" : "Jude Deveraux",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 972,
+  "Book Title" : "Velvet Angel",
+  "Author" : "JUDE DEVERAUX",
+  "Gene" : null
+},
+{
+  "No." : 973,
+  "Book Title" : "Waiting for Anya",
+  "Author" : "Michael Morpurgo",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 974,
+  "Book Title" : "Waiting for the Moon",
+  "Author" : "KRISTIN HANNAH",
+  "Gene" : "Historical Fiction / Romance"
+},
+{
+  "No." : 975,
+  "Book Title" : "WAITING FOR THE moon",
+  "Author" : "KRISTIN Hannah",
+  "Gene" : "non-friction"
+},
+{
+  "No." : 976,
+  "Book Title" : "WAKE",
+  "Author" : null,
+  "Gene" : null
+},
+{
+  "No." : 977,
+  "Book Title" : "Walking with Dinosaurs - The 3D Movie",
+  "Author" : "MacMillan Children's book",
+  "Gene" : "Animals"
+},
+{
+  "No." : 978,
+  "Book Title" : "Walking with Dinosaurs Dinopedia",
+  "Author" : null,
+  "Gene" : "Science"
+},
+{
+  "No." : 979,
+  "Book Title" : "Walking with Dinosaurs Dinopedia",
+  "Author" : "Stephen Brusatte",
+  "Gene" : "Science / Dinosaurs"
+},
+{
+  "No." : 980,
+  "Book Title" : "Walking with God",
+  "Author" : "Andrew Murray",
+  "Gene" : "Christian Devotional"
+},
+{
+  "No." : 981,
+  "Book Title" : "Washing the dog",
+  "Author" : "Peter Sloan and Sheryl Sloan",
+  "Gene" : "kids"
+},
+{
+  "No." : 982,
+  "Book Title" : "Washington Irving: Tales",
+  "Author" : "Washington Irving",
+  "Gene" : "Classic Literature"
+},
+{
+  "No." : 983,
+  "Book Title" : "Water Monsters",
+  "Author" : "Garingger",
+  "Gene" : "friction"
+},
+{
+  "No." : 984,
+  "Book Title" : "What a surprise 1",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 985,
+  "Book Title" : "What a surprise 2",
+  "Author" : "Houghton Mifflin",
+  "Gene" : "kids"
+},
+{
+  "No." : 986,
+  "Book Title" : "When He Comes",
+  "Author" : "Gbile Akanni",
+  "Gene" : "Christian Theology"
+},
+{
+  "No." : 987,
+  "Book Title" : "when we grow up",
+  "Author" : "Wendy Benger",
+  "Gene" : "kids"
+},
+{
+  "No." : 988,
+  "Book Title" : "White Oleander",
+  "Author" : "Janet Fitch",
+  "Gene" : "Literary Fiction"
+},
+{
+  "No." : 989,
+  "Book Title" : "Who ran my underwear up the flagpole",
+  "Author" : "Jerry Spinelli",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 990,
+  "Book Title" : "Who's that girl with the guns?",
+  "Author" : "Quackenbush",
+  "Gene" : "friction"
+},
+{
+  "No." : 991,
+  "Book Title" : "Wicked Forest",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : "Gothic Fiction / Family Saga"
+},
+{
+  "No." : 992,
+  "Book Title" : "wild card",
+  "Author" : null,
+  "Gene" : "Friction"
+},
+{
+  "No." : 993,
+  "Book Title" : "wild card",
+  "Author" : "BARBER",
+  "Gene" : null
+},
+{
+  "No." : 994,
+  "Book Title" : "Wild Horses I have known",
+  "Author" : "Ryden",
+  "Gene" : "animals"
+},
+{
+  "No." : 995,
+  "Book Title" : "Willem the bad",
+  "Author" : "Richmand Crompton",
+  "Gene" : "Friction"
+},
+{
+  "No." : 996,
+  "Book Title" : "WILLIAM THE BAD",
+  "Author" : "RICHMAN CROMPTON",
+  "Gene" : null
+},
+{
+  "No." : 997,
+  "Book Title" : "Willow",
+  "Author" : "V.C. ANDREWS",
+  "Gene" : null
+},
+{
+  "No." : 998,
+  "Book Title" : "Wish you well",
+  "Author" : "David Baldacci",
+  "Gene" : "Nonfiction"
+},
+{
+  "No." : 999,
+  "Book Title" : "WISHES, KISSES & PIGS",
+  "Author" : "(Author not clear)",
+  "Gene" : "(Genre unclear)"
+},
+{
+  "No." : 1000,
+  "Book Title" : "Wishes,kisses and pigs",
+  "Author" : "Hearne",
+  "Gene" : "friction"
+},
+{
+  "No." : 1001,
+  "Book Title" : "Women of Vision",
+  "Author" : "Various Authors",
+  "Gene" : "Christian Women's Study"
+}]}
