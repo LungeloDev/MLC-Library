@@ -1,28 +1,10 @@
 import { CommonModule } from '@angular/common';
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
-interface Book {
-  id: number;
-  number: string;
-  title: string;
-  author: string;
-  genre: string;
-  quantity: number;
-  availableQuantity: number;
-}
-
-interface Borrowing {
-  id: number;
-  bookId: number;
-  bookTitle: string;
-  borrowerName: string;
-  borrowerPhone: string;
-  borrowerEmail: string;
-  issueDate: string;
-  dueDate: string;
-  returned: boolean;
-}
+import { Book } from '../../core/models/books.model';
+import { Borrowing } from '../../core/models/borrowings.model';
+import { LibraryDataService } from '../../core/services/library-data.service';
 
 @Component({
   selector: 'app-dashboard',
@@ -31,7 +13,7 @@ interface Borrowing {
   templateUrl: './dashboard.html',
   styleUrl: './dashboard.css'
 })
-export class Dashboard {
+export class Dashboard implements OnInit {
   searchTerm = '';
 
   showBookDialog = false;
@@ -39,6 +21,9 @@ export class Dashboard {
   isEditingBook = false;
 
   selectedBook: Book | null = null;
+
+  books: Book[] = [];
+  borrowings: Borrowing[] = [];
 
   bookForm: Omit<Book, 'id'> = {
     number: '',
@@ -57,78 +42,11 @@ export class Dashboard {
     dueDate: this.getDateAfterDays(14)
   };
 
-  books: Book[] = [
-    {
-      id: 1,
-      number: '1',
-      title: '23 Minutes',
-      author: 'Vande Velde',
-      genre: 'Young Adult',
-      quantity: 1,
-      availableQuantity: 1
-    },
-    {
-      id: 2,
-      number: '2',
-      title: 'About David',
-      author: 'Shawn Bold',
-      genre: 'General',
-      quantity: 1,
-      availableQuantity: 1
-    },
-    {
-      id: 3,
-      number: '3',
-      title: 'A Class Apart',
-      author: 'Susan Lewis',
-      genre: 'Fiction',
-      quantity: 2,
-      availableQuantity: 1
-    },
-    {
-      id: 4,
-      number: '4',
-      title: 'Animals',
-      author: 'Various',
-      genre: 'Reference',
-      quantity: 3,
-      availableQuantity: 3
-    },
-    {
-      id: 5,
-      number: '5',
-      title: 'Amazing Grace',
-      author: 'Unknown',
-      genre: 'Christian',
-      quantity: 2,
-      availableQuantity: 0
-    }
-  ];
+  constructor(private libraryDataService: LibraryDataService) { }
 
-  borrowings: Borrowing[] = [
-    {
-      id: 1,
-      bookId: 5,
-      bookTitle: 'Amazing Grace',
-      borrowerName: 'Nomsa Dlamini',
-      borrowerPhone: '072 456 9981',
-      borrowerEmail: 'nomsa@email.com',
-      issueDate: '2026-03-10',
-      dueDate: '2026-03-17',
-      returned: false
-    },
-    {
-      id: 2,
-      bookId: 3,
-      bookTitle: 'A Class Apart',
-      borrowerName: 'Thabo Mokoena',
-      borrowerPhone: '071 222 3344',
-      borrowerEmail: 'thabo@email.com',
-      issueDate: '2026-03-18',
-      dueDate: '2026-04-01',
-      returned: false
-    }
-  ];
+  ngOnInit(): void {
+    this.refreshData();
+  }
 
   get filteredBooks(): Book[] {
     const term = this.searchTerm.trim().toLowerCase();
@@ -145,8 +63,9 @@ export class Dashboard {
     );
   }
 
+  // Getters for statistics
   get activeBorrowings(): Borrowing[] {
-    return this.borrowings.filter((item) => !item.returned);
+    return this.borrowings.filter((borrowing) => !borrowing.returned);
   }
 
   get totalTitles(): number {
@@ -154,24 +73,28 @@ export class Dashboard {
   }
 
   get totalCopies(): number {
-    return this.books.reduce((sum, book) => sum + book.quantity, 0);
+    return this.books.reduce((sum, book) => sum + Number(book.quantity || 0), 0);
   }
 
   get availableCopies(): number {
-    return this.books.reduce((sum, book) => sum + book.availableQuantity, 0);
+    return this.books.reduce((sum, book) => sum + Number(book.availableQuantity || 0), 0);
   }
 
   get lentOutCount(): number {
-    return this.books.reduce((sum, book) => sum + (book.quantity - book.availableQuantity), 0);
+    return this.books.reduce(
+      (sum, book) => sum + (Number(book.quantity || 0) - Number(book.availableQuantity || 0)),
+      0
+    );
   }
 
   get overdueCount(): number {
-    return this.activeBorrowings.filter((item) => this.isOverdue(item.dueDate)).length;
+    return this.activeBorrowings.filter((borrowing) => this.isOverdue(borrowing.dueDate)).length;
   }
 
   openAddBookDialog(): void {
     this.isEditingBook = false;
     this.selectedBook = null;
+
     this.bookForm = {
       number: '',
       title: '',
@@ -180,12 +103,14 @@ export class Dashboard {
       quantity: 1,
       availableQuantity: 1
     };
+
     this.showBookDialog = true;
   }
 
   openEditBookDialog(book: Book): void {
     this.isEditingBook = true;
     this.selectedBook = book;
+
     this.bookForm = {
       number: book.number,
       title: book.title,
@@ -194,60 +119,80 @@ export class Dashboard {
       quantity: book.quantity,
       availableQuantity: book.availableQuantity
     };
+
     this.showBookDialog = true;
   }
 
   closeBookDialog(): void {
     this.showBookDialog = false;
+    this.selectedBook = null;
   }
 
   saveBook(): void {
-    if (!this.bookForm.number || !this.bookForm.title || !this.bookForm.author || !this.bookForm.genre) {
+    const cleanedBook = {
+      number: this.bookForm.number.trim(),
+      title: this.bookForm.title.trim(),
+      author: this.bookForm.author.trim(),
+      genre: this.bookForm.genre.trim(),
+      quantity: Number(this.bookForm.quantity),
+      availableQuantity: Number(this.bookForm.availableQuantity)
+    };
+
+    if (!cleanedBook.number || !cleanedBook.title || !cleanedBook.author || !cleanedBook.genre) {
+      alert('Please complete all required book fields.');
       return;
     }
 
-    if (this.bookForm.availableQuantity > this.bookForm.quantity) {
-      this.bookForm.availableQuantity = this.bookForm.quantity;
+    if (cleanedBook.quantity < 1) {
+      alert('Quantity must be at least 1.');
+      return;
+    }
+
+    if (cleanedBook.availableQuantity < 0) {
+      alert('Available quantity cannot be less than 0.');
+      return;
+    }
+
+    if (cleanedBook.availableQuantity > cleanedBook.quantity) {
+      cleanedBook.availableQuantity = cleanedBook.quantity;
     }
 
     if (this.isEditingBook && this.selectedBook) {
-      this.books = this.books.map((book) =>
-        book.id === this.selectedBook!.id
-          ? {
-              ...book,
-              ...this.bookForm
-            }
-          : book
-      );
+      this.libraryDataService.updateBook({
+        id: this.selectedBook.id,
+        ...cleanedBook
+      });
     } else {
-      const newBook: Book = {
-        id: Date.now(),
-        ...this.bookForm
-      };
-
-      this.books = [newBook, ...this.books];
+      this.libraryDataService.addBook(cleanedBook);
     }
 
+    this.refreshData();
     this.closeBookDialog();
   }
 
   deleteBook(book: Book): void {
-    const hasActiveBorrowing = this.activeBorrowings.some((item) => item.bookId === book.id);
+    const confirmed = confirm(`Delete "${book.title}" from the library catalogue?`);
 
-    if (hasActiveBorrowing) {
-      alert('This book cannot be deleted because it is currently lent out.');
+    if (!confirmed) {
       return;
     }
 
-    this.books = this.books.filter((item) => item.id !== book.id);
+    try {
+      this.libraryDataService.deleteBook(book.id);
+      this.refreshData();
+    } catch (error) {
+      alert(error instanceof Error ? error.message : 'Could not delete this book.');
+    }
   }
 
   openLendDialog(book: Book): void {
     if (book.availableQuantity <= 0) {
+      alert('This book is currently out of stock.');
       return;
     }
 
     this.selectedBook = book;
+
     this.lendForm = {
       borrowerName: '',
       borrowerPhone: '',
@@ -255,11 +200,13 @@ export class Dashboard {
       issueDate: this.getToday(),
       dueDate: this.getDateAfterDays(14)
     };
+
     this.showLendDialog = true;
   }
 
   closeLendDialog(): void {
     this.showLendDialog = false;
+    this.selectedBook = null;
   }
 
   lendBook(): void {
@@ -267,53 +214,42 @@ export class Dashboard {
       return;
     }
 
-    if (!this.lendForm.borrowerName || !this.lendForm.issueDate || !this.lendForm.dueDate) {
+    const cleanedLendForm = {
+      borrowerName: this.lendForm.borrowerName.trim(),
+      borrowerPhone: this.lendForm.borrowerPhone.trim(),
+      borrowerEmail: this.lendForm.borrowerEmail.trim(),
+      issueDate: this.lendForm.issueDate,
+      dueDate: this.lendForm.dueDate
+    };
+
+    if (!cleanedLendForm.borrowerName || !cleanedLendForm.issueDate || !cleanedLendForm.dueDate) {
+      alert('Please capture borrower name, issue date, and due date.');
       return;
     }
 
-    const borrowing: Borrowing = {
-      id: Date.now(),
-      bookId: this.selectedBook.id,
-      bookTitle: this.selectedBook.title,
-      borrowerName: this.lendForm.borrowerName,
-      borrowerPhone: this.lendForm.borrowerPhone,
-      borrowerEmail: this.lendForm.borrowerEmail,
-      issueDate: this.lendForm.issueDate,
-      dueDate: this.lendForm.dueDate,
-      returned: false
-    };
+    if (cleanedLendForm.dueDate < cleanedLendForm.issueDate) {
+      alert('Due date cannot be before the issue date.');
+      return;
+    }
 
-    this.borrowings = [borrowing, ...this.borrowings];
-    this.books = this.books.map((book) =>
-      book.id === this.selectedBook!.id
-        ? {
-            ...book,
-            availableQuantity: Math.max(book.availableQuantity - 1, 0)
-          }
-        : book
-    );
-
-    this.closeLendDialog();
+    try {
+      this.libraryDataService.lendBook(this.selectedBook.id, cleanedLendForm);
+      this.refreshData();
+      this.closeLendDialog();
+    } catch (error) {
+      alert(error instanceof Error ? error.message : 'Could not lend this book.');
+    }
   }
 
   returnBook(borrowing: Borrowing): void {
-    this.borrowings = this.borrowings.map((item) =>
-      item.id === borrowing.id
-        ? {
-            ...item,
-            returned: true
-          }
-        : item
-    );
+    const confirmed = confirm(`Mark "${borrowing.bookTitle}" as returned?`);
 
-    this.books = this.books.map((book) =>
-      book.id === borrowing.bookId
-        ? {
-            ...book,
-            availableQuantity: Math.min(book.availableQuantity + 1, book.quantity)
-          }
-        : book
-    );
+    if (!confirmed) {
+      return;
+    }
+
+    this.libraryDataService.returnBook(borrowing.id!);
+    this.refreshData();
   }
 
   getBookStatus(book: Book): 'available' | 'low' | 'out' {
@@ -336,6 +272,11 @@ export class Dashboard {
     due.setHours(0, 0, 0, 0);
 
     return due < today;
+  }
+
+  private refreshData(): void {
+    this.books = this.libraryDataService.getBooks();
+    this.borrowings = this.libraryDataService.getBorrowings();
   }
 
   private getToday(): string {
