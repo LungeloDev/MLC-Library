@@ -1,0 +1,30 @@
+:host {
+    display: block;
+}
+
+.login-glow {
+    position: absolute;
+    border-radius: 9999px;
+    filter: blur(100px);
+    pointer-events: none;
+}
+
+.login-glow-1 {
+    top: -100px;
+    left: -100px;
+
+    width: 400px;
+    height: 400px;
+
+    background: rgba(168, 85, 247, 0.25);
+}
+
+.login-glow-2 {
+    right: -120px;
+    bottom: -100px;
+
+    width: 450px;
+    height: 450px;
+
+    background: rgba(217, 70, 239, 0.18);
+}

@@ -1,0 +1,106 @@
+<div class="relative flex min-h-screen items-center justify-center overflow-hidden bg-[#09020f] px-4">
+
+    <div class="login-glow login-glow-1"></div>
+    <div class="login-glow login-glow-2"></div>
+
+    <div
+        class="relative z-10 w-full max-w-md rounded-[2rem] border border-white/10 bg-white/[0.06] p-8 shadow-2xl backdrop-blur-xl sm:p-10">
+
+        <!-- Church -->
+
+        <div class="mb-8 text-center">
+
+            <img src="logo.png" alt="Midrand Lutheran Church"
+                class="mx-auto mb-5 h-20 w-20 rounded-full object-cover ring-4 ring-fuchsia-500/20" />
+
+            <p class="mb-2 text-xs font-semibold uppercase tracking-[0.25em] text-fuchsia-300">
+                Midrand Lutheran Church
+            </p>
+
+            <h1 class="text-3xl font-bold tracking-tight text-white">
+                Library Login
+            </h1>
+
+            <p class="mt-3 text-sm leading-6 text-purple-200/60">
+                Sign in to manage the church library catalogue,
+                lending and returns.
+            </p>
+
+        </div>
+
+
+        <!-- Form -->
+
+        <form (ngSubmit)="login()" class="space-y-5">
+
+            <!-- Username -->
+
+            <div>
+
+                <label class="mb-2 block text-sm font-medium text-purple-100">
+                    Username
+                </label>
+
+                <input type="text" name="username" [(ngModel)]="username" autocomplete="username"
+                    class="w-full rounded-xl border border-white/10 bg-black/20 px-4 py-3 text-white outline-none transition placeholder:text-white/30 focus:border-fuchsia-400/60 focus:ring-4 focus:ring-fuchsia-500/10"
+                    placeholder="Username" />
+
+            </div>
+
+
+            <!-- Password -->
+
+            <div>
+
+                <label class="mb-2 block text-sm font-medium text-purple-100">
+                    Password
+                </label>
+
+                <input type="password" name="password" [(ngModel)]="password" autocomplete="current-password"
+                    class="w-full rounded-xl border border-white/10 bg-black/20 px-4 py-3 text-white outline-none transition placeholder:text-white/30 focus:border-fuchsia-400/60 focus:ring-4 focus:ring-fuchsia-500/10"
+                    placeholder="Enter password" />
+
+            </div>
+
+
+            <!-- Error -->
+
+            @if (errorMessage) {
+
+            <div class="rounded-xl border border-red-400/20 bg-red-500/10 px-4 py-3 text-sm text-red-200">
+                {{ errorMessage }}
+            </div>
+
+            }
+
+
+            <!-- Login -->
+
+            <button type="submit" [disabled]="loading"
+                class="w-full rounded-xl bg-gradient-to-r from-fuchsia-600 to-violet-600 px-5 py-3.5 font-semibold text-white shadow-lg shadow-fuchsia-950/30 transition hover:from-fuchsia-500 hover:to-violet-500 disabled:cursor-not-allowed disabled:opacity-50">
+
+                @if (loading) {
+                Signing in...
+                } @else {
+                Login
+                }
+
+            </button>
+
+        </form>
+
+
+        <!-- Public Library -->
+
+        <div class="mt-6 border-t border-white/10 pt-6 text-center">
+
+            <button type="button" routerLink="/"
+                class="text-sm font-medium text-purple-300 transition hover:text-white">
+                ← Return to Library Catalogue
+            </button>
+
+        </div>
+
+    </div>
+
+</div>

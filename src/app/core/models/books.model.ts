@@ -7,3 +7,6 @@ export interface Book {
   quantity: number;
   availableQuantity: number;
 }
+
+// Lutheran-Admin@2026
+// admin@midrandlutheranchurch.co.za
